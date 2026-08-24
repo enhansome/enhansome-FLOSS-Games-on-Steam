@@ -1,7 +1,1646 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Co-operative top-down shooter game available for free. An epic bug hunt featuring a unique blend of co-op play and squad-level tactics.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 485105295,
+            "language": "C++",
+            "last_commit": "2026-08-13T14:53:28Z",
+            "owner": "ReactiveDrop",
+            "repo": "reactivedrop_public_src",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "Alien Swarm: Reactive Drop"
+    },
+    {
+      "description": "From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first-person horror game that will drag you to the depths of greed, power and madness. It will bury its snout into your ribs and it will eat your heart.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v3.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 295755782,
+            "language": "C++",
+            "last_commit": "2023-09-25T02:30:24Z",
+            "owner": "FrictionalGames",
+            "repo": "AmnesiaAMachineForPigs",
+            "stars": 1453
+          }
+        }
+      ],
+      "title": "Amnesia: A Machine for Pigs"
+    },
+    {
+      "description": "Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v3.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 295750059,
+            "language": "C++",
+            "last_commit": "2020-10-12T19:02:16Z",
+            "owner": "FrictionalGames",
+            "repo": "AmnesiaTheDarkDescent",
+            "stars": 3662
+          }
+        }
+      ],
+      "title": "Amnesia: The Dark Descent"
+    },
+    {
+      "description": "Build and upgrade your personal ship to travel around a strange planet.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | BSD 3-Clause \"New\" or \"Revised\" License | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329710013,
+            "language": "C++",
+            "last_commit": "2022-12-27T11:46:09Z",
+            "owner": "strangergwenn",
+            "repo": "AstralShipwright",
+            "stars": 173
+          }
+        }
+      ],
+      "title": "Astral Shipwright"
+    },
+    {
+      "description": "Barony is the premier first-person roguelike with cooperative play. Cryptic items, brutal traps, and devious monsters await you. Conquer the dungeon alone, or gather a party in co-op with iconic and unusual RPG classes. Get ready to try, and die, and try again with a new dungeon every time you play!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | BSD 2-Clause License | Website | Tutorials & Help | Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62115606,
+            "language": "C++",
+            "last_commit": "2026-02-21T03:10:51Z",
+            "owner": "TurningWheel",
+            "repo": "Barony",
+            "stars": 709
+          }
+        }
+      ],
+      "title": "Barony"
+    },
+    {
+      "description": "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source code | GNU General Public License v2.0 | Tutorials & Help | Website | News | Forums | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9432220,
+            "language": "C++",
+            "last_commit": "2026-08-23T20:38:28Z",
+            "owner": "wesnoth",
+            "repo": "wesnoth",
+            "stars": 6841
+          }
+        }
+      ],
+      "title": "Battle for Wesnoth"
+    },
+    {
+      "description": "Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License Apache 2.0 | Tutorials & Help | Website | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70942762,
+            "language": "HTML",
+            "last_commit": "2025-02-22T03:25:08Z",
+            "owner": "danielyxie",
+            "repo": "bitburner",
+            "stars": 2850
+          }
+        }
+      ],
+      "title": "Bitburner"
+    },
+    {
+      "description": "Brawl is a game about intense action with super realistic physics. You have to lead your gang to victory in a crime-infected town.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Licence GNU GPLv3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536311537,
+            "language": "C",
+            "last_commit": "2024-06-26T08:49:34Z",
+            "owner": "milgra",
+            "repo": "brawl",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Brawl"
+    },
+    {
+      "description": "What if Breakout was the only arcade game people could make? An open-source game, written entirely on a live stream.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License Public Domain | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211651840,
+            "language": "C",
+            "last_commit": "2020-06-05T05:41:53Z",
+            "owner": "DanZaidan",
+            "repo": "break_arcade_games_out",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "Break Arcade Games Out"
+    },
+    {
+      "description": "Steal everything you can and flee from the Burning Knight's castle in this action-packed roguelike! The game features tight bullet hell, tons of items, characters to meet... and secrets!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163317255,
+            "language": "C#",
+            "last_commit": "2024-03-18T06:43:29Z",
+            "owner": "egordorichev",
+            "repo": "BurningKnight",
+            "stars": 339
+          }
+        }
+      ],
+      "title": "Burning Knight"
+    },
+    {
+      "description": "BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277194224,
+            "language": "Lua",
+            "last_commit": "2020-10-17T20:44:47Z",
+            "owner": "a327ex",
+            "repo": "BYTEPATH",
+            "stars": 1538
+          }
+        }
+      ],
+      "title": "BYTEPATH"
+    },
+    {
+      "description": "The epitome of a modern traditional roguelike: with turn-based play and a RPG-like skill progression system, it hearkens back to some of the major aspects of this genre. This game has an incredible depth, with a deep inventory system, vehicles and boats, NPCs with their own stories, and more.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | Tutorials & Help | Forums | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5973855,
+            "language": "C++",
+            "last_commit": "2026-08-24T04:28:48Z",
+            "owner": "CleverRaven",
+            "repo": "Cataclysm-DDA",
+            "stars": 13017
+          }
+        }
+      ],
+      "title": "Cataclysm: Dark Days Ahead"
+    },
+    {
+      "description": "A post-apocalyptic roguelike set in modern-day New England. Scavenge tools to craft an arsenal capable of dealing with the ever-evolving hordes of zombies, mutants, aliens, and robots in one of the deepest survival sims around.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 874091023,
+            "language": "C++",
+            "last_commit": "2026-08-24T07:53:27Z",
+            "owner": "Cataclysm-TLG",
+            "repo": "Cataclysm-TLG",
+            "stars": 392
+          }
+        }
+      ],
+      "title": "Cataclysm: The Last Generation"
+    },
+    {
+      "description": "Cendric combines 2D RPG and Platformer elements in one indie game, featuring both a sidescroller and top-down view. The player explore a world by completing levels and quests, following the story of a boy with no memory and discovering the magical but dangerous world of Admantris.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Tutorials & Help | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31741698,
+            "language": "C",
+            "last_commit": "2026-03-30T16:59:15Z",
+            "owner": "tizian",
+            "repo": "Cendric2",
+            "stars": 308
+          }
+        }
+      ],
+      "title": "Cendric"
+    },
+    {
+      "description": "The Psychedelic Tunnel-Runner.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534646917,
+            "language": "C",
+            "last_commit": "2024-06-26T08:45:17Z",
+            "owner": "milgra",
+            "repo": "cortex",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Cortex"
+    },
+    {
+      "description": "In this 2D, short narrative-based game, you assume the role of the Grim Reaper... on an office job. Your job is to decide which people are going to live or die. The consequences of your choices are yours to bear, while the mystery of your incarnation awaits revelation!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248243205,
+            "language": "C#",
+            "last_commit": "2020-03-19T13:27:12Z",
+            "owner": "oakwarrior",
+            "repo": "DeathAndTaxes",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Death and Taxes"
+    },
+    {
+      "description": "Defold is a free and open game engine used for development of desktop, mobile and web games.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software on Steam",
+          "description": "Source Code | License Apache 2.0 | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4315538,
+            "language": "C++",
+            "last_commit": "2026-08-24T12:25:00Z",
+            "owner": "defold",
+            "repo": "defold",
+            "stars": 6267
+          }
+        }
+      ],
+      "title": "Defold"
+    },
+    {
+      "description": "Pilot your ship in the seamless open world made of space, planets, and more. Find new ships and equipment, find allies and beat all the enemies in this open source space shooter!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34216921,
+            "language": "Java",
+            "last_commit": "2026-08-23T21:56:48Z",
+            "owner": "MovingBlocks",
+            "repo": "DestinationSol",
+            "stars": 350
+          }
+        }
+      ],
+      "title": "Destination Sol"
+    },
+    {
+      "description": "Build a colony of ruthless capitalist Dwarves in a strange fantasy land.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36533074,
+            "language": "C#",
+            "last_commit": "2024-01-24T02:43:33Z",
+            "owner": "Blecki",
+            "repo": "dwarfcorp",
+            "stars": 627
+          }
+        }
+      ],
+      "title": "DwarfCorp"
+    },
+    {
+      "description": "A Co-op spaceship bridge simulator where you form a crew of 3 to 6 players serving in various roles like Captain, Helms, Relay, Weapons and Science officer. It's designed to run on almost any system and to be highly customizable due to it's extensive GM screen and powerful scripting capabilities.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20889734,
+            "language": "Lua",
+            "last_commit": "2026-08-20T07:38:47Z",
+            "owner": "daid",
+            "repo": "EmptyEpsilon",
+            "stars": 868
+          }
+        }
+      ],
+      "title": "EmptyEpsilon"
+    },
+    {
+      "description": "Epicinium is a strategy game where nature is a finite resource. No need to wait for your move, thanks to fast, simultaneous turns. Your economy and troops are influenced by the environment and increasingly severe weather effects. Is it worth winning a war when you end up conquering dirt and ash?",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303101144,
+            "language": "C++",
+            "last_commit": "2021-11-04T15:17:12Z",
+            "owner": "abunchofhacks",
+            "repo": "Epicinium",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Epicinium"
+    },
+    {
+      "description": "Lead your orbital battleships to victory in Flotilla! Fight, trade, and explore new planets in your journey through the galaxy. Featuring tactically rich 3D combat, flank and surprise the enemy from any direction. And when the dust settles, generate another uniquely randomized universe for a brand-spanking new adventure!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | zlib License | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243564169,
+            "language": "C#",
+            "last_commit": "2023-09-03T15:37:04Z",
+            "owner": "blendogames",
+            "repo": "flotilla",
+            "stars": 184
+          }
+        }
+      ],
+      "title": "Flotilla"
+    },
+    {
+      "description": "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software on Steam",
+          "description": "Source Code | License MIT | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15634981,
+            "language": "C++",
+            "last_commit": "2026-08-21T21:08:08Z",
+            "owner": "godotengine",
+            "repo": "godot",
+            "stars": 116079
+          }
+        }
+      ],
+      "title": "Godot Engine"
+    },
+    {
+      "description": "To make it in Nuevos Aires, one needs nerves of silk and the filthiest of hands.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v2.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271862797,
+            "language": "C",
+            "last_commit": "2020-06-16T14:33:16Z",
+            "owner": "blendogames",
+            "repo": "gravitybone",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "Gravity Bone"
+    },
+    {
+      "description": "Try your hand as a global planner of a future society. Play with a wide range of technologies and policies spanning different fields and ideologies. Will you lead the world to ecological utopia or planetary ruin?",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU AFFERO GENERAL PUBLIC LICENSE | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381903534,
+            "language": "Rust",
+            "last_commit": "2026-07-28T08:20:08Z",
+            "owner": "frnsys",
+            "repo": "half_earth",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Half-Earth Socialism"
+    },
+    {
+      "description": "Trade your wares and eliminate the competition in a cutthroat world. Buy new ships and stations to mine and haul resources. Explore the vast emptiness of space.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | BSD 3-Clause \"New\" or \"Revised\" License | Website | Tutorials & Help",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63629663,
+            "language": "C++",
+            "last_commit": "2021-07-04T18:50:40Z",
+            "owner": "strangergwenn",
+            "repo": "HeliumRain",
+            "stars": 784
+          }
+        }
+      ],
+      "title": "Helium Rain"
+    },
+    {
+      "description": "Hooksharks is a local multiplayer game about glory, and most of all, battling sharks with giant hooks attached to them.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166798615,
+            "language": "GDScript",
+            "last_commit": "2025-08-04T20:46:12Z",
+            "owner": "DoubleTroubleGames",
+            "repo": "hooksharks",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "HookSharks"
+    },
+    {
+      "description": "A tactical puzzle/roguelike on a hyperbolic plane.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40404373,
+            "language": "C++",
+            "last_commit": "2026-08-05T13:34:40Z",
+            "owner": "zenorogue",
+            "repo": "hyperrogue",
+            "stars": 701
+          }
+        }
+      ],
+      "title": "HyperRogue"
+    },
+    {
+      "description": "Following in the footsteps of Dwarf Fortress and Gnomoria, this game aims to provide the best experience of both worlds. The graphics and accessibility of Gnomoria and the depth and rich content of Dwarf Fortress.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146845561,
+            "language": "C++",
+            "last_commit": "2026-06-02T19:54:10Z",
+            "owner": "rschurade",
+            "repo": "Ingnomia",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "Ingnomia"
+    },
+    {
+      "description": "Ambitious dungeon simulator with roguelike and RPG elements. Take the role of an evil wizard and study the methods of black magic. Equip your minions and explore the world, murder innocent villagers and burn their homes. Build your dungeon, lay traps and prepare for an assault of angry heroes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Tutorials & Help | Source code | Website | News",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14375680,
+            "language": "C++",
+            "last_commit": "2025-10-27T19:50:05Z",
+            "owner": "miki151",
+            "repo": "keeperrl",
+            "stars": 1000
+          }
+        }
+      ],
+      "title": "KeeperRL"
+    },
+    {
+      "description": "Koi Farm is a game about playing with koi ponds. Explore an infinite number of procedurally generated koi patterns by crossbreeding your fish, and discover new mutations as you go along.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254933953,
+            "language": "JavaScript",
+            "last_commit": "2026-04-07T16:12:01Z",
+            "owner": "jobtalle",
+            "repo": "Koi",
+            "stars": 411
+          }
+        }
+      ],
+      "title": "Koi Farm"
+    },
+    {
+      "description": "Lazy Chess is a new non-profit chess game that narrows your choices down to the best 2 possible moves per turn. The moves provided can always win the game, but how strong are your decisions? Fewer moves. More fun.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339997223,
+            "language": "TypeScript",
+            "last_commit": "2021-03-15T18:51:25Z",
+            "owner": "cinqmarsmedia",
+            "repo": "Lazy-Chess-An-Indie-Chess-Puzzle-Game",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Lazy Chess"
+    },
+    {
+      "description": "Marvellous Inc. is a programming puzzle game, where you program robots to solve tasks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76110460,
+            "language": "Lua",
+            "last_commit": "2026-03-02T21:32:18Z",
+            "owner": "MarvellousSoft",
+            "repo": "MarvInc",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Marvellous Inc."
+    },
+    {
+      "description": "A free open-source circle-clicking rhythm game practice client for osu! beatmaps with Virtual Reality support. McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64229775,
+            "language": "C++",
+            "last_commit": "2026-03-02T12:01:31Z",
+            "owner": "McKay42",
+            "repo": "McOsu",
+            "stars": 474
+          }
+        }
+      ],
+      "title": "McOsu"
+    },
+    {
+      "description": "An open-ended tower-defense game with a focus on resource management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source code | Website | Tutorials & Help",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89822531,
+            "language": "Java",
+            "last_commit": "2026-08-24T07:10:18Z",
+            "owner": "Anuken",
+            "repo": "Mindustry",
+            "stars": 28724
+          }
+        }
+      ],
+      "title": "Mindustry"
+    },
+    {
+      "description": "Settle an untamed wilderness with the might of Dwarven engineering and thoughtful planning! Design and build your colony towards fame and fortune in a deeply-simulated fantasy world. Chill out in peaceful mode with a bustling settlement, or fight for survival against monsters and invasions!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Licence MIT | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618426224,
+            "language": "Java",
+            "last_commit": "2025-07-14T16:20:50Z",
+            "owner": "rossturner",
+            "repo": "mountaincore",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "Mountaincore"
+    },
+    {
+      "description": "Naev is a game about space exploration, trade and combat. Players travel the galaxy and earn money by trading, fighting and performing missions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129295,
+            "language": "C",
+            "last_commit": "2026-08-24T11:17:38Z",
+            "owner": "naev",
+            "repo": "naev",
+            "stars": 941
+          }
+        }
+      ],
+      "title": "Naev"
+    },
+    {
+      "description": "Free and open-source software for video recording and live streaming",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software on Steam",
+          "description": "Source Code | Licence GPLv2 | Website | Forums | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13233158,
+            "language": "C",
+            "last_commit": "2026-08-23T00:34:13Z",
+            "owner": "obsproject",
+            "repo": "obs-studio",
+            "stars": 75385
+          }
+        }
+      ],
+      "title": "OBS Studio"
+    },
+    {
+      "description": "A multiplayer survival game of parenting and civilization building. Get born to another player as your mother. Live an entire life in one hour. Have babies of your own in the form of other players. Leave a legacy for the next generation as you help to rebuild civilization from scratch. Updated weekly.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source code | Website | News | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106724750,
+            "language": "C++",
+            "last_commit": "2026-08-21T13:06:07Z",
+            "owner": "jasonrohrer",
+            "repo": "OneLife",
+            "stars": 1130
+          }
+        }
+      ],
+      "title": "One Hour One Life"
+    },
+    {
+      "description": "Manga are comics created in Japan. The problem for most people is, as they're made in Japan they're only produced in Japanese; someone has to translate them to English! Is one man able to accomplish this? Is there more to his team's relationships other than business? Can everything in a translator's life be simple and clear?",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25251066,
+            "language": "Ren'Py",
+            "last_commit": "2022-01-19T15:02:06Z",
+            "owner": "DeXP",
+            "repo": "onemangaday",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "One Manga Day"
+    },
+    {
+      "description": "Open Hexagon is a FOSS clone of Super Hexagon, a minimal action game. A fast-paced adrenalinic arcade game that's easy to learn but hard to master!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License AFL | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6497636,
+            "language": "C",
+            "last_commit": "2026-05-22T08:48:27Z",
+            "owner": "vittorioromeo",
+            "repo": "SSVOpenHexagon",
+            "stars": 655
+          }
+        }
+      ],
+      "title": "Open Hexagon"
+    },
+    {
+      "description": "Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661226,
+            "language": "C++",
+            "last_commit": "2017-12-25T07:29:20Z",
+            "owner": "FrictionalGames",
+            "repo": "PenumbraOverture",
+            "stars": 565
+          }
+        }
+      ],
+      "title": "Penumbra Overture"
+    },
+    {
+      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software on Steam",
+          "description": "Source Code | License MIT | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152307081,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:20:07Z",
+            "owner": "PixiEditor",
+            "repo": "PixiEditor",
+            "stars": 7992
+          }
+        }
+      ],
+      "title": "Pixelorama"
+    },
+    {
+      "description": "PixiEditor is a pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme. Have you ever used Photoshop, Gimp or Aseprite? We want users to get familiar with the tool quickly and with ease.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software on Steam",
+          "description": "Source Code | GNU Lesser General Public License v3.0 | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152307081,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:20:07Z",
+            "owner": "PixiEditor",
+            "repo": "PixiEditor",
+            "stars": 7992
+          }
+        }
+      ],
+      "title": "PixiEditor - Pixel Art Editor"
+    },
+    {
+      "description": "POSTAL is an isometric shooter filled to the brim with fast-paced explosive action. Blast, maim and fire-bomb your way through 17 unsuspecting locales, from a small town to a heavily guarded military complex. Don’t get too crazy – this killing spree is anything but senseless. Out here, strategy is key and the locals are packin’",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software on Steam",
+          "description": "Source Code | GNU General Public License v2.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 765181074,
+            "language": "C",
+            "last_commit": "2025-05-26T21:23:11Z",
+            "owner": "RWS-Studios",
+            "repo": "POSTAL-SourceCode",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "Postal"
+    },
+    {
+      "description": "When you have a top-of-the-line hacking deck armed with a 56.6k modem and a staggering 256k RAM, it means just one thing: you answer only to the highest bidder.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v3.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271890278,
+            "language": "C++",
+            "last_commit": "2026-07-29T18:53:11Z",
+            "owner": "blendogames",
+            "repo": "quadrilateralcowboy",
+            "stars": 332
+          }
+        }
+      ],
+      "title": "Quadrilateral Cowboy"
+    },
+    {
+      "description": "Quaver is a community-driven and open-source competitive rhythm game with two game modes and online leaderboards. Create your own maps or challenge the world in online multiplayer matches.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101938650,
+            "language": "C#",
+            "last_commit": "2026-08-23T23:04:08Z",
+            "owner": "Quaver",
+            "repo": "Quaver",
+            "stars": 794
+          }
+        }
+      ],
+      "title": "Quaver"
+    },
+    {
+      "description": "Relic Hunters Zero is a game about shooting evil space ducks and evil space turtles with tiny cute guns. It’s fast, it’s tactical, and feels delicious and smooth to play. Unlock new weapons, characters and relics to defeat the Ducan Commander.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39799813,
+            "language": "Yacc",
+            "last_commit": "2022-11-13T16:21:17Z",
+            "owner": "mventurelli",
+            "repo": "relichunterszero",
+            "stars": 447
+          }
+        }
+      ],
+      "title": "Relic Hunters Zero"
+    },
+    {
+      "description": "In ROTA gravity bends beneath your feet! Move blocks and twist gravity to solve puzzles. Collect all 50 gems and explore 8 vibrant worlds!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v3.0 | Website | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 412913066,
+            "language": "GDScript",
+            "last_commit": "2026-06-25T23:19:17Z",
+            "owner": "HarmonyHoney",
+            "repo": "ROTA",
+            "stars": 331
+          }
+        }
+      ],
+      "title": "ROTA"
+    },
+    {
+      "description": "Screeps is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | News | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73262827,
+            "language": "JavaScript",
+            "last_commit": "2026-04-01T17:48:44Z",
+            "owner": "screeps",
+            "repo": "screeps",
+            "stars": 3341
+          }
+        }
+      ],
+      "title": "Screeps"
+    },
+    {
+      "description": "Solve puzzles by designing an AI for a team of selfless heroes. Test your algorithm, optimize it, and emerge victorious from the dungeon!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177166841,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T08:58:05Z",
+            "owner": "felicien-brochu",
+            "repo": "selflessheroes",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Selfless Heroes"
+    },
+    {
+      "description": "Session Seven is a free point & click adventure game in which you play as Ryan, an estranged father and husband who has just awoken, beaten, bruised, and alone in a locked cellar.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133827572,
+            "language": "C#",
+            "last_commit": "2023-11-24T20:36:38Z",
+            "owner": "advdotnet",
+            "repo": "Session-Seven",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Session Seven"
+    },
+    {
+      "description": "shapez.io is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255365829,
+            "language": "JavaScript",
+            "last_commit": "2026-04-28T06:56:37Z",
+            "owner": "tobspr-games",
+            "repo": "shapez.io",
+            "stars": 6949
+          }
+        }
+      ],
+      "title": "shapez.io"
+    },
+    {
+      "description": "ShareX is a free and open source program that can capture or record selected area from the screen with a single keypress, automatically save them to your hard disk/clipboard, and instantly upload them to an image/file hosting service and then can copy the URL to your clipboard.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software on Steam",
+          "description": "Source Code | GNU General Public License v3.0 | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13428264,
+            "language": "C#",
+            "last_commit": "2026-08-23T23:42:37Z",
+            "owner": "ShareX",
+            "repo": "ShareX",
+            "stars": 39281
+          }
+        }
+      ],
+      "title": "ShareX"
+    },
+    {
+      "description": "Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | News | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22486533,
+            "language": "Java",
+            "last_commit": "2026-08-15T14:52:52Z",
+            "owner": "00-Evan",
+            "repo": "shattered-pixel-dungeon",
+            "stars": 6462
+          }
+        }
+      ],
+      "title": "Shattered Pixel Dungeon"
+    },
+    {
+      "description": "Simutrans is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Tutorials & Help | Website | News | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112724,
+            "language": "C++",
+            "last_commit": "2026-08-01T22:36:24Z",
+            "owner": "aburch",
+            "repo": "simutrans",
+            "stars": 450
+          }
+        }
+      ],
+      "title": "Simutrans"
+    },
+    {
+      "description": "Skin Deep is an immersive first-person shooter. We got sneezing. We got things getting stuck in your feet. Stalk through a vast non-linear starship and sneak, subvert, and sabotage to survive in this stellar sandbox. You're outnumbered, outgunned, and have no shoes. Welcome to Skin Deep!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v3.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005731695,
+            "language": "C++",
+            "last_commit": "2026-02-01T21:13:26Z",
+            "owner": "blendogames",
+            "repo": "SkinDeep",
+            "stars": 188
+          }
+        }
+      ],
+      "title": "Skin Deep"
+    },
+    {
+      "description": "Play the classic that transcends generations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252552114,
+            "language": "C#",
+            "last_commit": "2025-06-27T12:30:01Z",
+            "owner": "Romans-I-XVI",
+            "repo": "MonoGame-Snake",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Snake"
+    },
+    {
+      "description": "SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339932211,
+            "language": "Lua",
+            "last_commit": "2022-07-01T13:13:48Z",
+            "owner": "a327ex",
+            "repo": "SNKRX",
+            "stars": 1992
+          }
+        }
+      ],
+      "title": "SNKRX"
+    },
+    {
+      "description": "Discover a space strategy game filled with conquest, betrayal and subterfuge. Build alliances, make enemies and fight your way to victory and galactic domination. Will you conquer the galaxy?",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License GPLv3 | Tutorials & Help | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208426668,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T21:11:08Z",
+            "owner": "solaris-games",
+            "repo": "solaris",
+            "stars": 228
+          }
+        }
+      ],
+      "title": "Solaris"
+    },
+    {
+      "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 509701750,
+            "language": null,
+            "last_commit": "2022-07-08T12:43:48Z",
+            "owner": "soldat",
+            "repo": "soldat",
+            "stars": 149
+          }
+        }
+      ],
+      "title": "Soldat"
+    },
+    {
+      "description": "Disasters, enemies, and incompetence conspire to make each shift aboard the station a unique and hellish experience. Sign up today to explore intricate game mechanics and enjoy limitless player interaction! (Nanotrasen Inc. is not responsible for injury, death, or worse).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License MIT | Tutorials & Help | Website | News | Forums | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92001425,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:11:46Z",
+            "owner": "space-wizards",
+            "repo": "space-station-14",
+            "stars": 3753
+          }
+        }
+      ],
+      "title": "Space Station 14"
+    },
+    {
+      "description": "Massive scale 4X-RTS set in space. Control hundreds of planets, manipulate galactic politics, research numerous advanced technologies, and command thousands of units and hundreds of planets in your quest for galactic dominance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License MIT | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141283339,
+            "language": "C",
+            "last_commit": "2023-11-18T12:54:13Z",
+            "owner": "BlindMindStudios",
+            "repo": "StarRuler2-Source",
+            "stars": 1527
+          }
+        }
+      ],
+      "title": "Star Ruler 2"
+    },
+    {
+      "description": "Classic 2D jump'n'run sidescroller featuring Tux the penguin. Run and jump through multiple worlds, fighting off enemies by jumping on them, bumping them from below or tossing objects at them, grabbing power-ups and other stuff on the way.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License GPLv3 | Website | News | Forums | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14650917,
+            "language": "C++",
+            "last_commit": "2026-08-24T12:25:03Z",
+            "owner": "SuperTux",
+            "repo": "supertux",
+            "stars": 3130
+          }
+        }
+      ],
+      "title": "SuperTux"
+    },
+    {
+      "description": "A turn-based strategy with up to four armies fighting against each other. Challenge yourself in a campaign against AI, or a hot-seat battle with a friend. Follow the story of Prince Tybalt and restore peace in the Amber Noon kingdom.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License MIT | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176313244,
+            "language": "GDScript",
+            "last_commit": "2025-10-02T06:46:27Z",
+            "owner": "P1X-in",
+            "repo": "tanks-of-freedom-ii",
+            "stars": 421
+          }
+        }
+      ],
+      "title": "Tanks of Freedom II"
+    },
+    {
+      "description": "Termite is a psychedelic real-time action strategy experience. You are the leader of a termite hive with three objectives: collect food, produce ants and destroy alien colonies.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | License GPLv3 | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536250802,
+            "language": "C",
+            "last_commit": "2024-06-26T08:46:12Z",
+            "owner": "milgra",
+            "repo": "termite",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Termite"
+    },
+    {
+      "description": "Explore thirteen different castles, overcoming a variety of puzzles and traps while you attempt to escape.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Tutorials & Help | Website | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7062712,
+            "language": "C++",
+            "last_commit": "2022-03-18T21:13:30Z",
+            "owner": "segrax",
+            "repo": "DrCreep",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "The Castles of Dr. Creep"
+    },
+    {
+      "description": "The Colorful Creature is difficult platformer with puzzle color mechanics. Play over 300 levels with diverse gameplay that have many items and hazards, in-game level editor, local multiplayer, endless run, customizable skins & hats, steam workshop and more!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 727857046,
+            "language": "Game Maker Language",
+            "last_commit": "2026-05-13T22:00:53Z",
+            "owner": "Infiland",
+            "repo": "TheColorfulCreature",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "The Colorful Creature"
+    },
+    {
+      "description": "The Powder Toy is a classic physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v3.0 | Website | Forums | Tutorials & Help | Items made by other players",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 796532,
+            "language": "C++",
+            "last_commit": "2026-08-21T21:14:36Z",
+            "owner": "The-Powder-Toy",
+            "repo": "The-Powder-Toy",
+            "stars": 5278
+          }
+        }
+      ],
+      "title": "The Powder Toy"
+    },
+    {
+      "description": "Explore the deepest SECRETs™ of the Tremendous Corporation®. Find out what happened to indie devs and save the gaming industry!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43497680,
+            "language": "Makefile",
+            "last_commit": "2018-11-20T19:05:59Z",
+            "owner": "dos1",
+            "repo": "AdventureTheGame",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "The Secret of Tremendous Corporation"
+    },
+    {
+      "description": "Explore the world of Thirty Flights of Loving through a first-person short story. Take a deep dive with high-flying schemers, lovelorn criminals, and more stray kittens than you can shake a stick at.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v2.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271874324,
+            "language": "C",
+            "last_commit": "2026-06-18T03:45:31Z",
+            "owner": "blendogames",
+            "repo": "thirtyflightsofloving",
+            "stars": 116
+          }
+        }
+      ],
+      "title": "Thirty Flights of Loving"
+    },
+    {
+      "description": "An evolution simulation game. Take control of your species in the environment and edit your species as a whole. Compete with other evolving species for resources on an alien planet.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Tutorials & Help | Website | News | Forums | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5616877,
+            "language": "C#",
+            "last_commit": "2026-08-24T12:15:34Z",
+            "owner": "Revolutionary-Games",
+            "repo": "Thrive",
+            "stars": 3656
+          }
+        }
+      ],
+      "title": "Thrive"
+    },
+    {
+      "description": "Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!Note: In order to use this mod, you need to own Terraria on the Steam. Terraria is not FLOSS, but proprietary software.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mod on Steam",
+          "description": "Source Code | Website | Donate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39425864,
+            "language": "C#",
+            "last_commit": "2026-08-23T22:58:27Z",
+            "owner": "tModLoader",
+            "repo": "tModLoader",
+            "stars": 5589
+          }
+        }
+      ],
+      "title": "tModLoader"
+    },
+    {
+      "description": "Tomatenquark is a multiplayer & singleplayer first person shooter, a community homage to Cube 2: Sauerbraten.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 237266637,
+            "language": "C++",
+            "last_commit": "2020-12-13T16:15:41Z",
+            "owner": "tomatenquark",
+            "repo": "code",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Tomantenquark"
+    },
+    {
+      "description": "The game brings a fresh new take on the city building/management genre by introducing many RPG features. In Towns you manage a settlement on top of an active dungeon. Instead of playing the hero who delves deep into the dungeon, how about playing the town that houses and caters to the hero's needs? Note: The source code is floss, but the assets are not floss.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214626040,
+            "language": "Java",
+            "last_commit": "2026-04-25T10:31:37Z",
+            "owner": "supermalparit",
+            "repo": "Towns",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "Towns"
+    },
+    {
+      "description": "Trigger Time is a story-driven, top-down Shoot 'em up with a fun gravity gun and physics puzzles to solve. Blast your way through 9 levels filled with enemies, hazards and bizarre bosses. Along the way you'll take control of vehicles, pick up weapons, items and boosters.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172205441,
+            "language": "C++",
+            "last_commit": "2021-09-18T10:35:56Z",
+            "owner": "Sheph",
+            "repo": "TriggerTime",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Trigger Time"
+    },
+    {
+      "description": "Wake with no memory. Descend 100 dungeon floors. Build relationships, start a family, lose companions forever. A text-based RPG remake of the 1993 BBS classic—with a living world and multiple endings shaped by your choices.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | GNU General Public License v2.0 | Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011291435,
+            "language": "C#",
+            "last_commit": "2026-08-09T04:57:40Z",
+            "owner": "binary-knight",
+            "repo": "usurper-reborn",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Usurper Reborn"
+    },
+    {
+      "description": "Wyrmsun is a real-time strategy game which features elements of mythology, history and fiction with retro-style graphics, 3 playable civilizations, story-based scenarios, playable on a huge map. There are dozens of units, buildings and technologies",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game on Steam",
+          "description": "Source Code | Website | Forums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15649903,
+            "language": "Lua",
+            "last_commit": "2025-04-17T07:05:26Z",
+            "owner": "Andrettin",
+            "repo": "Wyrmsun",
+            "stars": 332
+          }
+        }
+      ],
+      "title": "Wyrmsun"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:41:20.933Z",
+    "last_updated": "2026-08-24T14:29:42.827Z",
     "original_repository": "Poussinou/FLOSS-Games-on-Steam",
     "original_repository_id": 92621889,
     "original_repository_sha": "369576ba9ec5bb0438c55b39e967f207168fd71e",
