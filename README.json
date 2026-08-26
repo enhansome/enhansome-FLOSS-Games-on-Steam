@@ -57,7 +57,7 @@
             "last_commit": "2020-10-12T19:02:16Z",
             "owner": "FrictionalGames",
             "repo": "AmnesiaTheDarkDescent",
-            "stars": 3663
+            "stars": 3664
           }
         }
       ],
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-25T02:38:46Z",
+            "last_commit": "2026-08-25T15:26:40Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6842
+            "stars": 6844
           }
         }
       ],
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 5973855,
             "language": "C++",
-            "last_commit": "2026-08-25T04:55:19Z",
+            "last_commit": "2026-08-25T21:01:13Z",
             "owner": "CleverRaven",
             "repo": "Cataclysm-DDA",
-            "stars": 13023
+            "stars": 13033
           }
         }
       ],
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 874091023,
             "language": "C++",
-            "last_commit": "2026-08-25T05:28:15Z",
+            "last_commit": "2026-08-25T16:05:46Z",
             "owner": "Cataclysm-TLG",
             "repo": "Cataclysm-TLG",
             "stars": 393
@@ -348,10 +348,10 @@
             "archived": false,
             "id": 4315538,
             "language": "C++",
-            "last_commit": "2026-08-25T06:02:16Z",
+            "last_commit": "2026-08-25T18:13:54Z",
             "owner": "defold",
             "repo": "defold",
-            "stars": 6267
+            "stars": 6268
           }
         }
       ],
@@ -474,10 +474,10 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-25T02:55:29Z",
+            "last_commit": "2026-08-25T17:19:05Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116099
+            "stars": 116149
           }
         }
       ],
@@ -729,7 +729,7 @@
             "last_commit": "2026-08-24T07:10:18Z",
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28729
+            "stars": 28741
           }
         }
       ],
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-25T00:33:55Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75416
+            "stars": 75447
           }
         }
       ],
@@ -894,10 +894,10 @@
             "archived": false,
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-24T17:24:59Z",
+            "last_commit": "2026-08-25T14:19:25Z",
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 7992
+            "stars": 7996
           }
         }
       ],
@@ -915,10 +915,10 @@
             "archived": false,
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-24T17:24:59Z",
+            "last_commit": "2026-08-25T14:19:25Z",
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 7992
+            "stars": 7996
           }
         }
       ],
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 13428264,
             "language": "C#",
-            "last_commit": "2026-08-25T06:04:08Z",
+            "last_commit": "2026-08-26T01:56:31Z",
             "owner": "ShareX",
             "repo": "ShareX",
-            "stars": 39290
+            "stars": 39300
           }
         }
       ],
@@ -1233,7 +1233,7 @@
             "last_commit": "2022-07-01T13:13:48Z",
             "owner": "a327ex",
             "repo": "SNKRX",
-            "stars": 1992
+            "stars": 1994
           }
         }
       ],
@@ -1293,10 +1293,10 @@
             "archived": false,
             "id": 92001425,
             "language": "C#",
-            "last_commit": "2026-08-24T23:12:00Z",
+            "last_commit": "2026-08-25T23:48:38Z",
             "owner": "space-wizards",
             "repo": "space-station-14",
-            "stars": 3755
+            "stars": 3757
           }
         }
       ],
@@ -1335,7 +1335,7 @@
             "archived": false,
             "id": 14650917,
             "language": "C++",
-            "last_commit": "2026-08-24T12:25:03Z",
+            "last_commit": "2026-08-25T23:21:50Z",
             "owner": "SuperTux",
             "repo": "supertux",
             "stars": 3130
@@ -1443,7 +1443,7 @@
             "last_commit": "2026-08-21T21:14:36Z",
             "owner": "The-Powder-Toy",
             "repo": "The-Powder-Toy",
-            "stars": 5278
+            "stars": 5279
           }
         }
       ],
@@ -1503,10 +1503,10 @@
             "archived": false,
             "id": 5616877,
             "language": "C#",
-            "last_commit": "2026-08-25T05:42:05Z",
+            "last_commit": "2026-08-25T21:25:45Z",
             "owner": "Revolutionary-Games",
             "repo": "Thrive",
-            "stars": 3657
+            "stars": 3660
           }
         }
       ],
@@ -1524,7 +1524,7 @@
             "archived": false,
             "id": 39425864,
             "language": "C#",
-            "last_commit": "2026-08-25T02:44:42Z",
+            "last_commit": "2026-08-25T23:45:37Z",
             "owner": "tModLoader",
             "repo": "tModLoader",
             "stars": 5589
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:12.857Z",
+    "last_updated": "2026-08-26T02:43:33.774Z",
     "original_repository": "Poussinou/FLOSS-Games-on-Steam",
     "original_repository_id": 92621889,
     "original_repository_sha": "369576ba9ec5bb0438c55b39e967f207168fd71e",
