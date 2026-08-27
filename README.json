@@ -57,7 +57,7 @@
             "last_commit": "2020-10-12T19:02:16Z",
             "owner": "FrictionalGames",
             "repo": "AmnesiaTheDarkDescent",
-            "stars": 3664
+            "stars": 3667
           }
         }
       ],
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-25T15:26:40Z",
+            "last_commit": "2026-08-27T06:28:52Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6844
+            "stars": 6843
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2024-03-18T06:43:29Z",
             "owner": "egordorichev",
             "repo": "BurningKnight",
-            "stars": 339
+            "stars": 340
           }
         }
       ],
@@ -225,7 +225,7 @@
             "last_commit": "2020-10-17T20:44:47Z",
             "owner": "a327ex",
             "repo": "BYTEPATH",
-            "stars": 1538
+            "stars": 1539
           }
         }
       ],
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 5973855,
             "language": "C++",
-            "last_commit": "2026-08-25T21:01:13Z",
+            "last_commit": "2026-08-27T06:20:09Z",
             "owner": "CleverRaven",
             "repo": "Cataclysm-DDA",
-            "stars": 13033
+            "stars": 13043
           }
         }
       ],
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 874091023,
             "language": "C++",
-            "last_commit": "2026-08-25T16:05:46Z",
+            "last_commit": "2026-08-27T09:49:12Z",
             "owner": "Cataclysm-TLG",
             "repo": "Cataclysm-TLG",
             "stars": 393
@@ -348,10 +348,10 @@
             "archived": false,
             "id": 4315538,
             "language": "C++",
-            "last_commit": "2026-08-25T18:13:54Z",
+            "last_commit": "2026-08-27T11:40:22Z",
             "owner": "defold",
             "repo": "defold",
-            "stars": 6268
+            "stars": 6270
           }
         }
       ],
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-23T21:56:48Z",
             "owner": "MovingBlocks",
             "repo": "DestinationSol",
-            "stars": 351
+            "stars": 352
           }
         }
       ],
@@ -474,10 +474,10 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-25T17:19:05Z",
+            "last_commit": "2026-08-27T01:39:48Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116149
+            "stars": 116217
           }
         }
       ],
@@ -582,7 +582,7 @@
             "last_commit": "2026-08-05T13:34:40Z",
             "owner": "zenorogue",
             "repo": "hyperrogue",
-            "stars": 701
+            "stars": 702
           }
         }
       ],
@@ -603,7 +603,7 @@
             "last_commit": "2026-06-02T19:54:10Z",
             "owner": "rschurade",
             "repo": "Ingnomia",
-            "stars": 267
+            "stars": 268
           }
         }
       ],
@@ -726,10 +726,10 @@
             "archived": false,
             "id": 89822531,
             "language": "Java",
-            "last_commit": "2026-08-24T07:10:18Z",
+            "last_commit": "2026-08-26T20:59:42Z",
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28741
+            "stars": 28750
           }
         }
       ],
@@ -750,7 +750,7 @@
             "last_commit": "2025-07-14T16:20:50Z",
             "owner": "rossturner",
             "repo": "mountaincore",
-            "stars": 124
+            "stars": 125
           }
         }
       ],
@@ -768,7 +768,7 @@
             "archived": false,
             "id": 129295,
             "language": "C",
-            "last_commit": "2026-08-24T11:17:38Z",
+            "last_commit": "2026-08-27T09:48:38Z",
             "owner": "naev",
             "repo": "naev",
             "stars": 941
@@ -789,10 +789,10 @@
             "archived": false,
             "id": 13233158,
             "language": "C",
-            "last_commit": "2026-08-25T00:33:55Z",
+            "last_commit": "2026-08-26T18:05:18Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75447
+            "stars": 75507
           }
         }
       ],
@@ -894,10 +894,10 @@
             "archived": false,
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-25T14:19:25Z",
+            "last_commit": "2026-08-27T10:48:55Z",
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 7996
+            "stars": 8001
           }
         }
       ],
@@ -915,10 +915,10 @@
             "archived": false,
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-25T14:19:25Z",
+            "last_commit": "2026-08-27T10:48:55Z",
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 7996
+            "stars": 8001
           }
         }
       ],
@@ -939,7 +939,7 @@
             "last_commit": "2025-05-26T21:23:11Z",
             "owner": "RWS-Studios",
             "repo": "POSTAL-SourceCode",
-            "stars": 119
+            "stars": 120
           }
         }
       ],
@@ -978,7 +978,7 @@
             "archived": false,
             "id": 101938650,
             "language": "C#",
-            "last_commit": "2026-08-23T23:04:08Z",
+            "last_commit": "2026-08-26T18:58:39Z",
             "owner": "Quaver",
             "repo": "Quaver",
             "stars": 794
@@ -1023,7 +1023,7 @@
             "last_commit": "2026-06-25T23:19:17Z",
             "owner": "HarmonyHoney",
             "repo": "ROTA",
-            "stars": 331
+            "stars": 328
           }
         }
       ],
@@ -1044,7 +1044,7 @@
             "last_commit": "2026-04-01T17:48:44Z",
             "owner": "screeps",
             "repo": "screeps",
-            "stars": 3341
+            "stars": 3340
           }
         }
       ],
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 13428264,
             "language": "C#",
-            "last_commit": "2026-08-26T01:56:31Z",
+            "last_commit": "2026-08-27T08:34:54Z",
             "owner": "ShareX",
             "repo": "ShareX",
-            "stars": 39300
+            "stars": 39329
           }
         }
       ],
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-08-15T14:52:52Z",
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
-            "stars": 6463
+            "stars": 6465
           }
         }
       ],
@@ -1233,7 +1233,7 @@
             "last_commit": "2022-07-01T13:13:48Z",
             "owner": "a327ex",
             "repo": "SNKRX",
-            "stars": 1994
+            "stars": 1995
           }
         }
       ],
@@ -1275,7 +1275,7 @@
             "last_commit": "2022-07-08T12:43:48Z",
             "owner": "soldat",
             "repo": "soldat",
-            "stars": 149
+            "stars": 150
           }
         }
       ],
@@ -1293,10 +1293,10 @@
             "archived": false,
             "id": 92001425,
             "language": "C#",
-            "last_commit": "2026-08-25T23:48:38Z",
+            "last_commit": "2026-08-27T09:10:13Z",
             "owner": "space-wizards",
             "repo": "space-station-14",
-            "stars": 3757
+            "stars": 3761
           }
         }
       ],
@@ -1317,7 +1317,7 @@
             "last_commit": "2023-11-18T12:54:13Z",
             "owner": "BlindMindStudios",
             "repo": "StarRuler2-Source",
-            "stars": 1527
+            "stars": 1528
           }
         }
       ],
@@ -1335,10 +1335,10 @@
             "archived": false,
             "id": 14650917,
             "language": "C++",
-            "last_commit": "2026-08-25T23:21:50Z",
+            "last_commit": "2026-08-26T21:52:52Z",
             "owner": "SuperTux",
             "repo": "supertux",
-            "stars": 3130
+            "stars": 3132
           }
         }
       ],
@@ -1359,7 +1359,7 @@
             "last_commit": "2025-10-02T06:46:27Z",
             "owner": "P1X-in",
             "repo": "tanks-of-freedom-ii",
-            "stars": 421
+            "stars": 420
           }
         }
       ],
@@ -1443,7 +1443,7 @@
             "last_commit": "2026-08-21T21:14:36Z",
             "owner": "The-Powder-Toy",
             "repo": "The-Powder-Toy",
-            "stars": 5279
+            "stars": 5281
           }
         }
       ],
@@ -1503,10 +1503,10 @@
             "archived": false,
             "id": 5616877,
             "language": "C#",
-            "last_commit": "2026-08-25T21:25:45Z",
+            "last_commit": "2026-08-27T09:21:13Z",
             "owner": "Revolutionary-Games",
             "repo": "Thrive",
-            "stars": 3660
+            "stars": 3662
           }
         }
       ],
@@ -1527,7 +1527,7 @@
             "last_commit": "2026-08-25T23:45:37Z",
             "owner": "tModLoader",
             "repo": "tModLoader",
-            "stars": 5589
+            "stars": 5594
           }
         }
       ],
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-08-09T04:57:40Z",
             "owner": "binary-knight",
             "repo": "usurper-reborn",
-            "stars": 86
+            "stars": 87
           }
         }
       ],
@@ -1640,9 +1640,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:43:33.774Z",
-    "original_repository": "Poussinou/FLOSS-Games-on-Steam",
-    "original_repository_id": 92621889,
+    "last_updated": "2026-08-27T11:42:08.525Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 92621889,
+      "language": null,
+      "last_commit": "2026-04-28T20:35:52Z",
+      "owner": "Poussinou",
+      "repo": "FLOSS-Games-on-Steam",
+      "stars": 351
+    },
     "original_repository_sha": "369576ba9ec5bb0438c55b39e967f207168fd71e",
     "enhanced_repository": "enhansome/enhansome-FLOSS-Games-on-Steam",
     "enhanced_repository_description": null,
