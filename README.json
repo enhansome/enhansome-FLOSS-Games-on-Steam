@@ -16,7 +16,8 @@
             "owner": "ReactiveDrop",
             "repo": "reactivedrop_public_src",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Alien Swarm: Reactive Drop"
@@ -37,7 +38,8 @@
             "owner": "FrictionalGames",
             "repo": "AmnesiaAMachineForPigs",
             "stars": 1454
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Amnesia: A Machine for Pigs"
@@ -58,7 +60,8 @@
             "owner": "FrictionalGames",
             "repo": "AmnesiaTheDarkDescent",
             "stars": 3667
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Amnesia: The Dark Descent"
@@ -79,7 +82,8 @@
             "owner": "strangergwenn",
             "repo": "AstralShipwright",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Astral Shipwright"
@@ -100,7 +104,8 @@
             "owner": "TurningWheel",
             "repo": "Barony",
             "stars": 709
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Barony"
@@ -117,11 +122,12 @@
             "archived": false,
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-27T06:28:52Z",
+            "last_commit": "2026-08-28T04:18:55Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6843
-          }
+            "stars": 6844
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Battle for Wesnoth"
@@ -142,7 +148,8 @@
             "owner": "danielyxie",
             "repo": "bitburner",
             "stars": 2850
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Bitburner"
@@ -163,7 +170,8 @@
             "owner": "milgra",
             "repo": "brawl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Brawl"
@@ -184,7 +192,8 @@
             "owner": "DanZaidan",
             "repo": "break_arcade_games_out",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Break Arcade Games Out"
@@ -205,7 +214,8 @@
             "owner": "egordorichev",
             "repo": "BurningKnight",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Burning Knight"
@@ -225,8 +235,9 @@
             "last_commit": "2020-10-17T20:44:47Z",
             "owner": "a327ex",
             "repo": "BYTEPATH",
-            "stars": 1539
-          }
+            "stars": 1541
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "BYTEPATH"
@@ -243,11 +254,12 @@
             "archived": false,
             "id": 5973855,
             "language": "C++",
-            "last_commit": "2026-08-27T06:20:09Z",
+            "last_commit": "2026-08-28T02:21:21Z",
             "owner": "CleverRaven",
             "repo": "Cataclysm-DDA",
-            "stars": 13043
-          }
+            "stars": 13050
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Cataclysm: Dark Days Ahead"
@@ -264,11 +276,12 @@
             "archived": false,
             "id": 874091023,
             "language": "C++",
-            "last_commit": "2026-08-27T09:49:12Z",
+            "last_commit": "2026-08-28T09:34:40Z",
             "owner": "Cataclysm-TLG",
             "repo": "Cataclysm-TLG",
-            "stars": 393
-          }
+            "stars": 395
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Cataclysm: The Last Generation"
@@ -289,7 +302,8 @@
             "owner": "tizian",
             "repo": "Cendric2",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Cendric"
@@ -310,7 +324,8 @@
             "owner": "milgra",
             "repo": "cortex",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Cortex"
@@ -331,7 +346,8 @@
             "owner": "oakwarrior",
             "repo": "DeathAndTaxes",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Death and Taxes"
@@ -348,11 +364,12 @@
             "archived": false,
             "id": 4315538,
             "language": "C++",
-            "last_commit": "2026-08-27T11:40:22Z",
+            "last_commit": "2026-08-28T12:58:09Z",
             "owner": "defold",
             "repo": "defold",
-            "stars": 6270
-          }
+            "stars": 6273
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Defold"
@@ -373,7 +390,8 @@
             "owner": "MovingBlocks",
             "repo": "DestinationSol",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Destination Sol"
@@ -394,7 +412,8 @@
             "owner": "Blecki",
             "repo": "dwarfcorp",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "DwarfCorp"
@@ -415,7 +434,8 @@
             "owner": "daid",
             "repo": "EmptyEpsilon",
             "stars": 868
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "EmptyEpsilon"
@@ -436,7 +456,8 @@
             "owner": "abunchofhacks",
             "repo": "Epicinium",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Epicinium"
@@ -457,7 +478,8 @@
             "owner": "blendogames",
             "repo": "flotilla",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Flotilla"
@@ -474,11 +496,12 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-27T01:39:48Z",
+            "last_commit": "2026-08-27T17:33:08Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116217
-          }
+            "stars": 116275
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Godot Engine"
@@ -499,7 +522,8 @@
             "owner": "blendogames",
             "repo": "gravitybone",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Gravity Bone"
@@ -519,8 +543,9 @@
             "last_commit": "2026-07-28T08:20:08Z",
             "owner": "frnsys",
             "repo": "half_earth",
-            "stars": 71
-          }
+            "stars": 72
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Half-Earth Socialism"
@@ -541,7 +566,8 @@
             "owner": "strangergwenn",
             "repo": "HeliumRain",
             "stars": 784
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Helium Rain"
@@ -562,7 +588,8 @@
             "owner": "DoubleTroubleGames",
             "repo": "hooksharks",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "HookSharks"
@@ -583,7 +610,8 @@
             "owner": "zenorogue",
             "repo": "hyperrogue",
             "stars": 702
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "HyperRogue"
@@ -603,8 +631,9 @@
             "last_commit": "2026-06-02T19:54:10Z",
             "owner": "rschurade",
             "repo": "Ingnomia",
-            "stars": 268
-          }
+            "stars": 269
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Ingnomia"
@@ -624,8 +653,9 @@
             "last_commit": "2025-10-27T19:50:05Z",
             "owner": "miki151",
             "repo": "keeperrl",
-            "stars": 1000
-          }
+            "stars": 1001
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "KeeperRL"
@@ -646,7 +676,8 @@
             "owner": "jobtalle",
             "repo": "Koi",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Koi Farm"
@@ -667,7 +698,8 @@
             "owner": "cinqmarsmedia",
             "repo": "Lazy-Chess-An-Indie-Chess-Puzzle-Game",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Lazy Chess"
@@ -688,7 +720,8 @@
             "owner": "MarvellousSoft",
             "repo": "MarvInc",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Marvellous Inc."
@@ -709,7 +742,8 @@
             "owner": "McKay42",
             "repo": "McOsu",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "McOsu"
@@ -726,11 +760,12 @@
             "archived": false,
             "id": 89822531,
             "language": "Java",
-            "last_commit": "2026-08-26T20:59:42Z",
+            "last_commit": "2026-08-27T22:45:47Z",
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28750
-          }
+            "stars": 28755
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Mindustry"
@@ -751,7 +786,8 @@
             "owner": "rossturner",
             "repo": "mountaincore",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Mountaincore"
@@ -772,7 +808,8 @@
             "owner": "naev",
             "repo": "naev",
             "stars": 941
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Naev"
@@ -792,8 +829,9 @@
             "last_commit": "2026-08-26T18:05:18Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75507
-          }
+            "stars": 75550
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "OBS Studio"
@@ -814,7 +852,8 @@
             "owner": "jasonrohrer",
             "repo": "OneLife",
             "stars": 1130
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "One Hour One Life"
@@ -835,7 +874,8 @@
             "owner": "DeXP",
             "repo": "onemangaday",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "One Manga Day"
@@ -856,7 +896,8 @@
             "owner": "vittorioromeo",
             "repo": "SSVOpenHexagon",
             "stars": 655
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Open Hexagon"
@@ -877,7 +918,8 @@
             "owner": "FrictionalGames",
             "repo": "PenumbraOverture",
             "stars": 565
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Penumbra Overture"
@@ -894,11 +936,12 @@
             "archived": false,
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-27T10:48:55Z",
+            "last_commit": "2026-08-27T14:53:28Z",
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 8001
-          }
+            "stars": 8002
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Pixelorama"
@@ -915,11 +958,12 @@
             "archived": false,
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-27T10:48:55Z",
+            "last_commit": "2026-08-27T14:53:28Z",
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 8001
-          }
+            "stars": 8002
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "PixiEditor - Pixel Art Editor"
@@ -940,7 +984,8 @@
             "owner": "RWS-Studios",
             "repo": "POSTAL-SourceCode",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Postal"
@@ -961,7 +1006,8 @@
             "owner": "blendogames",
             "repo": "quadrilateralcowboy",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Quadrilateral Cowboy"
@@ -982,7 +1028,8 @@
             "owner": "Quaver",
             "repo": "Quaver",
             "stars": 794
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Quaver"
@@ -1002,8 +1049,9 @@
             "last_commit": "2022-11-13T16:21:17Z",
             "owner": "mventurelli",
             "repo": "relichunterszero",
-            "stars": 447
-          }
+            "stars": 448
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Relic Hunters Zero"
@@ -1024,7 +1072,8 @@
             "owner": "HarmonyHoney",
             "repo": "ROTA",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "ROTA"
@@ -1044,8 +1093,9 @@
             "last_commit": "2026-04-01T17:48:44Z",
             "owner": "screeps",
             "repo": "screeps",
-            "stars": 3340
-          }
+            "stars": 3342
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Screeps"
@@ -1066,7 +1116,8 @@
             "owner": "felicien-brochu",
             "repo": "selflessheroes",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Selfless Heroes"
@@ -1087,7 +1138,8 @@
             "owner": "advdotnet",
             "repo": "Session-Seven",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Session Seven"
@@ -1107,8 +1159,9 @@
             "last_commit": "2026-04-28T06:56:37Z",
             "owner": "tobspr-games",
             "repo": "shapez.io",
-            "stars": 6949
-          }
+            "stars": 6950
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "shapez.io"
@@ -1125,11 +1178,12 @@
             "archived": false,
             "id": 13428264,
             "language": "C#",
-            "last_commit": "2026-08-27T08:34:54Z",
+            "last_commit": "2026-08-28T06:16:02Z",
             "owner": "ShareX",
             "repo": "ShareX",
-            "stars": 39329
-          }
+            "stars": 39348
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "ShareX"
@@ -1150,7 +1204,8 @@
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
             "stars": 6465
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Shattered Pixel Dungeon"
@@ -1171,7 +1226,8 @@
             "owner": "aburch",
             "repo": "simutrans",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Simutrans"
@@ -1192,7 +1248,8 @@
             "owner": "blendogames",
             "repo": "SkinDeep",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Skin Deep"
@@ -1213,7 +1270,8 @@
             "owner": "Romans-I-XVI",
             "repo": "MonoGame-Snake",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Snake"
@@ -1233,8 +1291,9 @@
             "last_commit": "2022-07-01T13:13:48Z",
             "owner": "a327ex",
             "repo": "SNKRX",
-            "stars": 1995
-          }
+            "stars": 1996
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "SNKRX"
@@ -1255,7 +1314,8 @@
             "owner": "solaris-games",
             "repo": "solaris",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Solaris"
@@ -1276,7 +1336,8 @@
             "owner": "soldat",
             "repo": "soldat",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Soldat"
@@ -1293,11 +1354,12 @@
             "archived": false,
             "id": 92001425,
             "language": "C#",
-            "last_commit": "2026-08-27T09:10:13Z",
+            "last_commit": "2026-08-28T12:37:25Z",
             "owner": "space-wizards",
             "repo": "space-station-14",
-            "stars": 3761
-          }
+            "stars": 3762
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Space Station 14"
@@ -1318,7 +1380,8 @@
             "owner": "BlindMindStudios",
             "repo": "StarRuler2-Source",
             "stars": 1528
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Star Ruler 2"
@@ -1338,8 +1401,9 @@
             "last_commit": "2026-08-26T21:52:52Z",
             "owner": "SuperTux",
             "repo": "supertux",
-            "stars": 3132
-          }
+            "stars": 3133
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "SuperTux"
@@ -1360,7 +1424,8 @@
             "owner": "P1X-in",
             "repo": "tanks-of-freedom-ii",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Tanks of Freedom II"
@@ -1381,7 +1446,8 @@
             "owner": "milgra",
             "repo": "termite",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Termite"
@@ -1402,7 +1468,8 @@
             "owner": "segrax",
             "repo": "DrCreep",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "The Castles of Dr. Creep"
@@ -1423,7 +1490,8 @@
             "owner": "Infiland",
             "repo": "TheColorfulCreature",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "The Colorful Creature"
@@ -1444,7 +1512,8 @@
             "owner": "The-Powder-Toy",
             "repo": "The-Powder-Toy",
             "stars": 5281
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "The Powder Toy"
@@ -1465,7 +1534,8 @@
             "owner": "dos1",
             "repo": "AdventureTheGame",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "The Secret of Tremendous Corporation"
@@ -1486,7 +1556,8 @@
             "owner": "blendogames",
             "repo": "thirtyflightsofloving",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Thirty Flights of Loving"
@@ -1503,11 +1574,12 @@
             "archived": false,
             "id": 5616877,
             "language": "C#",
-            "last_commit": "2026-08-27T09:21:13Z",
+            "last_commit": "2026-08-28T12:24:52Z",
             "owner": "Revolutionary-Games",
             "repo": "Thrive",
-            "stars": 3662
-          }
+            "stars": 3665
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Thrive"
@@ -1524,11 +1596,12 @@
             "archived": false,
             "id": 39425864,
             "language": "C#",
-            "last_commit": "2026-08-25T23:45:37Z",
+            "last_commit": "2026-08-28T00:34:46Z",
             "owner": "tModLoader",
             "repo": "tModLoader",
-            "stars": 5594
-          }
+            "stars": 5596
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "tModLoader"
@@ -1549,7 +1622,8 @@
             "owner": "tomatenquark",
             "repo": "code",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Tomantenquark"
@@ -1570,7 +1644,8 @@
             "owner": "supermalparit",
             "repo": "Towns",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Towns"
@@ -1591,7 +1666,8 @@
             "owner": "Sheph",
             "repo": "TriggerTime",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Trigger Time"
@@ -1612,7 +1688,8 @@
             "owner": "binary-knight",
             "repo": "usurper-reborn",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Usurper Reborn"
@@ -1633,14 +1710,15 @@
             "owner": "Andrettin",
             "repo": "Wyrmsun",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T13:03:46.682Z"
         }
       ],
       "title": "Wyrmsun"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:08.525Z",
+    "last_updated": "2026-08-28T13:03:46.682Z",
     "original_repository_info": {
       "archived": false,
       "id": 92621889,
