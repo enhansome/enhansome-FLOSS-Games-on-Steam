@@ -292,7 +292,7 @@ BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Us
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) | [Source Code](https://github.com/CleverRaven/Cataclysm-DDA/) ⭐ 13,050 | 🐛 1,810 | 🌐 C++ | 📅 2026-08-29 | [Website](https://cataclysmdda.org/) | [Tutorials & Help](https://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page) | [Forums](https://discourse.cataclysmdda.org/) | [Donate](https://cataclysmdda.org/donations/)
+[Game on Steam](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) | [Source Code](https://github.com/CleverRaven/Cataclysm-DDA/) ⭐ 13,051 | 🐛 1,806 | 🌐 C++ | 📅 2026-08-29 | [Website](https://cataclysmdda.org/) | [Tutorials & Help](https://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page) | [Forums](https://discourse.cataclysmdda.org/) | [Donate](https://cataclysmdda.org/donations/)
 
 The epitome of a modern traditional roguelike: with turn-based play and a RPG-like skill progression system, it hearkens back to some of the major aspects of this genre. This game has an incredible depth, with a deep inventory system, vehicles and boats, NPCs with their own stories, and more.
 
@@ -461,7 +461,7 @@ In this 2D, short narrative-based game, you assume the role of the Grim Reaper..
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/1365760/Defold/) | [Source Code](https://github.com/defold/defold) ⭐ 6,274 | 🐛 973 | 🌐 C++ | 📅 2026-08-28 | [License Apache 2.0](https://github.com/defold/defold/blob/dev/LICENSE.txt) ⭐ 6,274 | 🐛 973 | 🌐 C++ | 📅 2026-08-28 | [Website](https://defold.com/) | [Donate](https://defold.com/donate/)
+[Software on Steam](https://store.steampowered.com/app/1365760/Defold/) | [Source Code](https://github.com/defold/defold) ⭐ 6,273 | 🐛 973 | 🌐 C++ | 📅 2026-08-29 | [License Apache 2.0](https://github.com/defold/defold/blob/dev/LICENSE.txt) ⭐ 6,273 | 🐛 973 | 🌐 C++ | 📅 2026-08-29 | [Website](https://defold.com/) | [Donate](https://defold.com/donate/)
 
 Defold is a free and open game engine used for development of desktop, mobile and web games.
 
@@ -548,7 +548,7 @@ A Co-op spaceship bridge simulator where you form a crew of 3 to 6 players servi
 
 <!-- HyperLinks -->
 
-[Game on Steam](http://store.steampowered.com/app/404410/Endless_Sky/) | [Tutorials & Help](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) ⭐ 7,523 | 🐛 916 | 🌐 C++ | 📅 2026-08-28 | [Source code](https://github.com/endless-sky) | [Website](http://endless-sky.github.io/) | [News](http://endless-sky.github.io/blog.html)
+[Game on Steam](http://store.steampowered.com/app/404410/Endless_Sky/) | [Tutorials & Help](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) ⭐ 7,524 | 🐛 916 | 🌐 C++ | 📅 2026-08-28 | [Source code](https://github.com/endless-sky) | [Website](http://endless-sky.github.io/) | [News](http://endless-sky.github.io/blog.html)
 
 Endless Sky is a 2D space trading and combat game inspired by the classic Escape Velocity series. Work your way up from a relatively wimpy shuttle, cargo ship, or fighter, to a highly upgraded and customized flagship or to a massive fleet of warships or freighters.
 
@@ -649,7 +649,7 @@ FreedroidRPG is an open source sci-fi role playing game, where the player (playi
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/404790/Godot_Engine/) | [Source Code](https://github.com/godotengine/godot) ⭐ 116,319 | 🐛 18,786 | 🌐 C++ | 📅 2026-08-28 | [License MIT](https://github.com/godotengine/godot/blob/master/LICENSE.txt) ⭐ 116,319 | 🐛 18,786 | 🌐 C++ | 📅 2026-08-28 | [Website](https://godotengine.org/) | [Donate](https://fund.godotengine.org/)
+[Software on Steam](https://store.steampowered.com/app/404790/Godot_Engine/) | [Source Code](https://github.com/godotengine/godot) ⭐ 116,327 | 🐛 18,786 | 🌐 C++ | 📅 2026-08-28 | [License MIT](https://github.com/godotengine/godot/blob/master/LICENSE.txt) ⭐ 116,327 | 🐛 18,786 | 🌐 C++ | 📅 2026-08-28 | [Website](https://godotengine.org/) | [Donate](https://fund.godotengine.org/)
 
 Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel.
 
@@ -1044,7 +1044,7 @@ MegaGlest is an open source cross-platform 3D real-time strategy (RTS) game, whe
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Source code](https://github.com/Anuken/Mindustry) ⭐ 28,758 | 🐛 49 | 🌐 Java | 📅 2026-08-28 | [Website](https://mindustrygame.github.io/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/)
+[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Source code](https://github.com/Anuken/Mindustry) ⭐ 28,759 | 🐛 52 | 🌐 Java | 📅 2026-08-28 | [Website](https://mindustrygame.github.io/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/)
 
 An open-ended tower-defense game with a focus on resource management.
 
@@ -1125,7 +1125,7 @@ Naev is a game about space exploration, trade and combat. Players travel the gal
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/1905180/OBS_Studio/) | [Source Code](https://github.com/obsproject/obs-studio) ⭐ 75,572 | 🐛 1,168 | 🌐 C | 📅 2026-08-26 | [Licence GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING) ⭐ 75,572 | 🐛 1,168 | 🌐 C | 📅 2026-08-26 | [Website](https://obsproject.com/) | [Forums](https://obsproject.com/forum/) | [Donate](https://www.patreon.com/obsproject)
+[Software on Steam](https://store.steampowered.com/app/1905180/OBS_Studio/) | [Source Code](https://github.com/obsproject/obs-studio) ⭐ 75,577 | 🐛 1,167 | 🌐 C | 📅 2026-08-26 | [Licence GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING) ⭐ 75,577 | 🐛 1,167 | 🌐 C | 📅 2026-08-26 | [Website](https://obsproject.com/) | [Forums](https://obsproject.com/forum/) | [Donate](https://www.patreon.com/obsproject)
 
 Free and open-source software for video recording and live streaming
 
@@ -1554,7 +1554,7 @@ ShareX is a free and open source program that can capture or record selected are
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,465 | 🐛 11 | 🌐 Java | 📅 2026-08-15 | [Website](https://shatteredpixel.com/shatteredpd/) | [News](https://shatteredpixel.com/blog/) | [Donate](https://www.patreon.com/ShatteredPixel)
+[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,464 | 🐛 11 | 🌐 Java | 📅 2026-08-15 | [Website](https://shatteredpixel.com/shatteredpd/) | [News](https://shatteredpixel.com/blog/) | [Donate](https://www.patreon.com/ShatteredPixel)
 
 Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master!
 
@@ -1699,7 +1699,7 @@ Soldat is a unique 2D (side-view) multiplayer action game. It has been influence
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Source Code](https://github.com/space-wizards/space-station-14) ⭐ 3,762 | 🐛 4,228 | 🌐 C# | 📅 2026-08-29 | [License MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT) ⭐ 3,762 | 🐛 4,228 | 🌐 C# | 📅 2026-08-29 | [Tutorials & Help](https://wiki.spacestation14.io/wiki/Main_Page) | [Website](https://spacestation14.io/) | [News](https://spacestation14.io/post/) | [Forums](https://forum.spacestation14.io/) | [Donate](https://www.patreon.com/spacestation14)
+[Game on Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Source Code](https://github.com/space-wizards/space-station-14) ⭐ 3,762 | 🐛 4,227 | 🌐 C# | 📅 2026-08-29 | [License MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT) ⭐ 3,762 | 🐛 4,227 | 🌐 C# | 📅 2026-08-29 | [Tutorials & Help](https://wiki.spacestation14.io/wiki/Main_Page) | [Website](https://spacestation14.io/) | [News](https://spacestation14.io/post/) | [Forums](https://forum.spacestation14.io/) | [Donate](https://www.patreon.com/spacestation14)
 
 Disasters, enemies, and incompetence conspire to make each shift aboard the station a unique and hellish experience. Sign up today to explore intricate game mechanics and enjoy limitless player interaction! (Nanotrasen Inc. is not responsible for injury, death, or worse).
 
@@ -2023,7 +2023,7 @@ An evolution simulation game. Take control of your species in the environment an
 
 <!-- HyperLinks -->
 
-[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) ⭐ 5,598 | 🐛 614 | 🌐 C# | 📅 2026-08-29 | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
+[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) ⭐ 5,600 | 🐛 615 | 🌐 C# | 📅 2026-08-29 | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
 
 Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!\
 *Note: In order to use this mod, you need to own [Terraria](https://store.steampowered.com/app/105600/Terraria/) on the Steam. Terraria is not FLOSS, but proprietary software.*
@@ -2068,7 +2068,7 @@ Tomatenquark is a multiplayer & singleplayer first person shooter, a community h
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/221020/Towns/) | [Source Code](https://github.com/supermalparit/Towns) ⭐ 182 | 🐛 0 | 🌐 Java | 📅 2026-04-25 | [GNU General Public License v3.0](https://github.com/supermalparit/Towns/blob/main/LICENSE) ⭐ 182 | 🐛 0 | 🌐 Java | 📅 2026-04-25
+[Game on Steam](https://store.steampowered.com/app/221020/Towns/) | [Source Code](https://github.com/supermalparit/Towns) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2026-04-25 | [GNU General Public License v3.0](https://github.com/supermalparit/Towns/blob/main/LICENSE) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2026-04-25
 
 The game brings a fresh new take on the city building/management genre by introducing many RPG features. In Towns you manage a settlement on top of an active dungeon. Instead of playing the hero who delves deep into the dungeon, how about playing the town that houses and caters to the hero's needs?
 *Note: The source code is floss, but **the assets are not floss**.*
