@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alien Swarm: Reactive Drop game source code and issue tracker.",
+            "homepage": "https://reactivedrop.com",
             "id": 485105295,
             "language": "C++",
-            "last_commit": "2026-08-13T14:53:28Z",
+            "license": null,
+            "last_commit": "2026-08-28T19:47:46Z",
+            "open_issues": 265,
             "owner": "ReactiveDrop",
             "repo": "reactivedrop_public_src",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "alien-swarm",
+              "game",
+              "game-development",
+              "hacktoberfest",
+              "source-engine"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -32,12 +43,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 295755782,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-25T02:30:24Z",
+            "open_issues": 7,
             "owner": "FrictionalGames",
             "repo": "AmnesiaAMachineForPigs",
-            "stars": 1454
+            "stars": 1454,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -54,12 +70,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 295750059,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-12T19:02:16Z",
+            "open_issues": 18,
             "owner": "FrictionalGames",
             "repo": "AmnesiaTheDarkDescent",
-            "stars": 3667
+            "stars": 3668,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -76,12 +97,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASTRAL SHIPWRIGHT / Full game sources for Astral Shipwright, a space sim made with Unreal Engine 5",
+            "homepage": "https://astralshipwright.com",
             "id": 329710013,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-27T11:46:09Z",
+            "open_issues": 1,
             "owner": "strangergwenn",
             "repo": "AstralShipwright",
-            "stars": 173
+            "stars": 174,
+            "topics": [
+              "gamedev",
+              "sim",
+              "space",
+              "ue5",
+              "unreal"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -98,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Barony Open Source Release",
+            "homepage": "http://www.baronygame.com/",
             "id": 62115606,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-21T03:10:51Z",
+            "open_issues": 152,
             "owner": "TurningWheel",
             "repo": "Barony",
-            "stars": 709
+            "stars": 710,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -120,12 +157,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source, turn-based strategy game with a high fantasy theme.",
+            "homepage": "https://www.wesnoth.org/",
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-28T04:18:55Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T01:29:06Z",
+            "open_issues": 1495,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6844
+            "stars": 6845,
+            "topics": [
+              "fantasy",
+              "free",
+              "game",
+              "opensource",
+              "strategy-game",
+              "turn-based-strategy"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -142,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitburner Game",
+            "homepage": "https://danielyxie.github.io/bitburner/",
             "id": 70942762,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-02-22T03:25:08Z",
+            "open_issues": 9,
             "owner": "danielyxie",
             "repo": "bitburner",
-            "stars": 2850
+            "stars": 2849,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -164,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D mass brawl simulator",
+            "homepage": null,
             "id": 536311537,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-26T08:49:34Z",
+            "open_issues": 0,
             "owner": "milgra",
             "repo": "brawl",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -186,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "What if Breakout was the only arcade game people could make? An open-source game, written entirely on a live stream.",
+            "homepage": null,
             "id": 211651840,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-05T05:41:53Z",
+            "open_issues": 4,
             "owner": "DanZaidan",
             "repo": "break_arcade_games_out",
-            "stars": 199
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -208,12 +272,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Top-down roguelike about goblins, lamps and magic",
+            "homepage": "https://store.steampowered.com/app/851150/Burning_Knight/",
             "id": 163317255,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-03-18T06:43:29Z",
+            "open_issues": 4,
             "owner": "egordorichev",
             "repo": "BurningKnight",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "burning-knight",
+              "csharp",
+              "dungeon",
+              "game",
+              "roguelike",
+              "steam"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -230,12 +306,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A replayable arcade shooter with a focus on build theorycrafting.",
+            "homepage": null,
             "id": 277194224,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-17T20:44:47Z",
+            "open_issues": 4,
             "owner": "a327ex",
             "repo": "BYTEPATH",
-            "stars": 1541
+            "stars": 1541,
+            "topics": [
+              "2d",
+              "game",
+              "game-development",
+              "gamedev",
+              "indie",
+              "indiedev",
+              "love2d",
+              "lua",
+              "retro",
+              "rpg",
+              "shooter",
+              "terminal",
+              "terminal-game",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -252,12 +348,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+            "homepage": "http://cataclysmdda.org",
             "id": 5973855,
             "language": "C++",
-            "last_commit": "2026-08-28T02:21:21Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:49:59Z",
+            "open_issues": 1810,
             "owner": "CleverRaven",
             "repo": "Cataclysm-DDA",
-            "stars": 13050
+            "stars": 13050,
+            "topics": [
+              "c-plus-plus",
+              "cataclysm",
+              "game",
+              "hacktoberfest",
+              "zombies"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -274,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cataclysm: The Last Generation",
+            "homepage": null,
             "id": 874091023,
             "language": "C++",
-            "last_commit": "2026-08-28T09:34:40Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:12:56Z",
+            "open_issues": 63,
             "owner": "Cataclysm-TLG",
             "repo": "Cataclysm-TLG",
-            "stars": 395
+            "stars": 396,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -296,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D Game",
+            "homepage": null,
             "id": 31741698,
             "language": "C",
+            "license": null,
             "last_commit": "2026-03-30T16:59:15Z",
+            "open_issues": 7,
             "owner": "tizian",
             "repo": "Cendric2",
-            "stars": 308
+            "stars": 308,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -318,12 +435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The psychedelic tunnel-runner",
+            "homepage": null,
             "id": 534646917,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-26T08:45:17Z",
+            "open_issues": 0,
             "owner": "milgra",
             "repo": "cortex",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -340,12 +462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code for Placeholder Gameworks' debut title \"Death and Taxes\", of which I did the coding.",
+            "homepage": null,
             "id": 248243205,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-03-19T13:27:12Z",
+            "open_issues": 0,
             "owner": "oakwarrior",
             "repo": "DeathAndTaxes",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -362,12 +489,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defold is a completely free to use game engine for development of desktop, console, mobile and web games.",
+            "homepage": "https://www.defold.com",
             "id": 4315538,
             "language": "C++",
-            "last_commit": "2026-08-28T12:58:09Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T20:26:27Z",
+            "open_issues": 973,
             "owner": "defold",
             "repo": "defold",
-            "stars": 6273
+            "stars": 6274,
+            "topics": [
+              "c-plus-plus",
+              "clojure",
+              "defold",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "hacktoberfest",
+              "lua",
+              "multi-platform"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -384,12 +526,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official continuation of Destination Sol, the great fun little arcade space shooter from http://sourceforge.net/projects/destinationsol/  Modules live at https://github.com/DestinationSol/",
+            "homepage": null,
             "id": 34216921,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T21:56:48Z",
+            "open_issues": 73,
             "owner": "MovingBlocks",
             "repo": "DestinationSol",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "android",
+              "destination-sol",
+              "game",
+              "game-development",
+              "hacktoberfest",
+              "java",
+              "libgdx",
+              "libgdx-game"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -406,12 +562,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source 3D colony management game for PC, Mac and Linux",
+            "homepage": "http://www.dwarfcorp.com",
             "id": 36533074,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-24T02:43:33Z",
+            "open_issues": 86,
             "owner": "Blecki",
             "repo": "dwarfcorp",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "3d",
+              "csharp",
+              "dwarf-fortress",
+              "game",
+              "game-engine",
+              "graphics",
+              "visual-studio",
+              "xna",
+              "xna-fna"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -428,12 +599,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source bridge simulator. Build with the SeriousProton engine.",
+            "homepage": "https://daid.github.io/EmptyEpsilon/",
             "id": 20889734,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-20T07:38:47Z",
+            "open_issues": 266,
             "owner": "daid",
             "repo": "EmptyEpsilon",
-            "stars": 868
+            "stars": 868,
+            "topics": [
+              "artemis",
+              "cpp",
+              "emptyepsilon",
+              "game",
+              "multiplayer"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -450,12 +632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A strategy game with simultaneous turns where nature is a finite resource",
+            "homepage": null,
             "id": 303101144,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2021-11-04T15:17:12Z",
+            "open_issues": 4,
             "owner": "abunchofhacks",
             "repo": "Epicinium",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -472,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of tactical space game Flotilla (2010)",
+            "homepage": "http://blendogames.com/flotilla",
             "id": 243564169,
             "language": "C#",
+            "license": "Zlib",
             "last_commit": "2023-09-03T15:37:04Z",
+            "open_issues": 1,
             "owner": "blendogames",
             "repo": "flotilla",
-            "stars": 184
+            "stars": 184,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -494,12 +686,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "homepage": "https://godotengine.org",
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-27T17:33:08Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:21:06Z",
+            "open_issues": 18786,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116275
+            "stars": 116319,
+            "topics": [
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "godot",
+              "godotengine",
+              "multi-platform",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -516,12 +721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of Gravity Bone (2008)",
+            "homepage": "http://blendogames.com/gravitybone",
             "id": 271862797,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-06-16T14:33:16Z",
+            "open_issues": 0,
             "owner": "blendogames",
             "repo": "gravitybone",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -538,12 +748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Half-Earth Socialism: The Game, for Half-Earth Socialism (Verso 2022)",
+            "homepage": null,
             "id": 381903534,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-28T08:20:08Z",
+            "open_issues": 23,
             "owner": "frnsys",
             "repo": "half_earth",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -560,12 +775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HELIUM RAIN / Full sources for Helium Rain, a realistic space opera using Unreal Engine 4",
+            "homepage": "http://helium-rain.com",
             "id": 63629663,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-07-04T18:50:40Z",
+            "open_issues": 0,
             "owner": "strangergwenn",
             "repo": "HeliumRain",
-            "stars": 784
+            "stars": 785,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -582,12 +802,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game about love, empathy and mostly sharks",
+            "homepage": null,
             "id": 166798615,
             "language": "GDScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-04T20:46:12Z",
+            "open_issues": 39,
             "owner": "DoubleTroubleGames",
             "repo": "hooksharks",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "action",
+              "game",
+              "godot-engine",
+              "hook",
+              "pvp",
+              "sharks"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -604,12 +836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SDL roguelike in a non-euclidean world",
+            "homepage": null,
             "id": 40404373,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-05T13:34:40Z",
+            "open_issues": 33,
             "owner": "zenorogue",
             "repo": "hyperrogue",
-            "stars": 702
+            "stars": 702,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -626,12 +863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 146845561,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-02T19:54:10Z",
+            "open_issues": 39,
             "owner": "rschurade",
             "repo": "Ingnomia",
-            "stars": 269
+            "stars": 269,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -648,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of KeeperRL",
+            "homepage": null,
             "id": 14375680,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2025-10-27T19:50:05Z",
+            "open_issues": 719,
             "owner": "miki151",
             "repo": "keeperrl",
-            "stars": 1001
+            "stars": 1001,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -670,12 +917,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Koi Farm, a koi breeding game",
+            "homepage": "https://koifarmgame.com/",
             "id": 254933953,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-07T16:12:01Z",
+            "open_issues": 21,
             "owner": "jobtalle",
             "repo": "Koi",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "breeding",
+              "farm",
+              "game",
+              "genetic",
+              "itchio",
+              "koi",
+              "procedural-generation",
+              "steam"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -692,12 +953,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An indie chess puzzle game with innovative mechanics, designed to help engage new players and self-conscious enthusiasts.",
+            "homepage": "https://cinqmarsmedia.com/lazychess",
             "id": 339997223,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-15T18:51:25Z",
+            "open_issues": 0,
             "owner": "cinqmarsmedia",
             "repo": "Lazy-Chess-An-Indie-Chess-Puzzle-Game",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "chess",
+              "chess-game",
+              "firebase",
+              "indiegame",
+              "ionic"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -714,12 +986,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zachlike with an immersive storyline told through emails.",
+            "homepage": "https://marvellous.itch.io/marvellous-inc",
             "id": 76110460,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-02T21:32:18Z",
+            "open_issues": 20,
             "owner": "MarvellousSoft",
             "repo": "MarvInc",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "game",
+              "hacktoberfest",
+              "indiegame",
+              "love2d",
+              "puzzle",
+              "zachlike"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -736,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom unofficial osu! practice client with Virtual Reality support",
+            "homepage": null,
             "id": 64229775,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-02T12:01:31Z",
+            "open_issues": 36,
             "owner": "McKay42",
             "repo": "McOsu",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -758,12 +1047,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The automation tower defense RTS",
+            "homepage": "https://mindustrygame.github.io",
             "id": 89822531,
             "language": "Java",
-            "last_commit": "2026-08-27T22:45:47Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T22:33:53Z",
+            "open_issues": 49,
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28755
+            "stars": 28758,
+            "topics": [
+              "android",
+              "desktop",
+              "game",
+              "java",
+              "mindustry",
+              "mobile-game",
+              "multiplatform",
+              "rts",
+              "sandbox-game",
+              "tower-defense"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -780,12 +1085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simulation-based strategy game featuring dwarves, written in Java with LibGDX",
+            "homepage": null,
             "id": 618426224,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-07-14T16:20:50Z",
+            "open_issues": 3,
             "owner": "rossturner",
             "repo": "mountaincore",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -802,12 +1112,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Naev has moved to codeberg! This is just a mirror.",
+            "homepage": "https://codeberg.org/naev/naev",
             "id": 129295,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:48:38Z",
+            "open_issues": 170,
             "owner": "naev",
             "repo": "naev",
-            "stars": 941
+            "stars": 941,
+            "topics": [
+              "2d-game",
+              "action",
+              "c",
+              "exploration",
+              "free",
+              "game",
+              "lua",
+              "modding",
+              "multiplatform",
+              "naev",
+              "opensource",
+              "rpg",
+              "rust",
+              "simulator",
+              "space",
+              "space-game",
+              "top-down"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -824,12 +1157,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+            "homepage": "https://obsproject.com",
             "id": 13233158,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T18:05:18Z",
+            "open_issues": 1168,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75550
+            "stars": 75572,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "directshow",
+              "facebook-live",
+              "ffmpeg",
+              "game-capture",
+              "live-streaming",
+              "screen-capture",
+              "twitch-tv",
+              "video-recording",
+              "youtube-live"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -846,12 +1196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a multiplayer survival game of parenting and civilization building",
+            "homepage": "http://onehouronelife.com",
             "id": 106724750,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T13:06:07Z",
+            "open_issues": 16,
             "owner": "jasonrohrer",
             "repo": "OneLife",
-            "stars": 1130
+            "stars": 1130,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -868,12 +1223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"One Manga Day\" visual novel",
+            "homepage": "https://onemangaday.dexp.in",
             "id": 25251066,
             "language": "Ren'Py",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-19T15:02:06Z",
+            "open_issues": 0,
             "owner": "DeXP",
             "repo": "onemangaday",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -890,12 +1250,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++20 FOSS clone of \"Super Hexagon\". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-3D effects.",
+            "homepage": "https://vittorioromeo.com/openhexagon.html",
             "id": 6497636,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-22T08:48:27Z",
+            "open_issues": 41,
             "owner": "vittorioromeo",
             "repo": "SSVOpenHexagon",
-            "stars": 655
+            "stars": 655,
+            "topics": [
+              "cpp",
+              "cpp11",
+              "cpp14",
+              "game",
+              "game-development",
+              "gamedev",
+              "open-hexagon"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -912,12 +1285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Penumbra: Overture is a first person horror game, using the HPL1 Engine.",
+            "homepage": "http://www.penumbragame.com/",
             "id": 661226,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2017-12-25T07:29:20Z",
+            "open_issues": 5,
             "owner": "FrictionalGames",
             "repo": "PenumbraOverture",
-            "stars": 565
+            "stars": 565,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -934,12 +1312,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PixiEditor is a Universal Editor for all your 2D needs",
+            "homepage": "https://pixieditor.net",
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-27T14:53:28Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-28T15:06:34Z",
+            "open_issues": 264,
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 8002
+            "stars": 8002,
+            "topics": [
+              "2d",
+              "avaloniaui",
+              "csharp",
+              "dotnet-core",
+              "dotnetcore",
+              "editor",
+              "game-development",
+              "graphics",
+              "graphics-editor",
+              "linux-desktop",
+              "painting",
+              "pixel-art",
+              "pixi",
+              "procedural-drawing",
+              "procedural-generation",
+              "raster-graphics",
+              "sprites",
+              "tabs",
+              "vector-graphics"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -956,12 +1359,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PixiEditor is a Universal Editor for all your 2D needs",
+            "homepage": "https://pixieditor.net",
             "id": 152307081,
             "language": "C#",
-            "last_commit": "2026-08-27T14:53:28Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-28T15:06:34Z",
+            "open_issues": 264,
             "owner": "PixiEditor",
             "repo": "PixiEditor",
-            "stars": 8002
+            "stars": 8002,
+            "topics": [
+              "2d",
+              "avaloniaui",
+              "csharp",
+              "dotnet-core",
+              "dotnetcore",
+              "editor",
+              "game-development",
+              "graphics",
+              "graphics-editor",
+              "linux-desktop",
+              "painting",
+              "pixel-art",
+              "pixi",
+              "procedural-drawing",
+              "procedural-generation",
+              "raster-graphics",
+              "sprites",
+              "tabs",
+              "vector-graphics"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -978,12 +1406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the original POSTAL source code.",
+            "homepage": null,
             "id": 765181074,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-05-26T21:23:11Z",
+            "open_issues": 2,
             "owner": "RWS-Studios",
             "repo": "POSTAL-SourceCode",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1000,12 +1433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for Quadrilateral Cowboy (2016)",
+            "homepage": "http://blendogames.com/qc",
             "id": 271890278,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-29T18:53:11Z",
+            "open_issues": 3,
             "owner": "blendogames",
             "repo": "quadrilateralcowboy",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1022,12 +1460,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate community-driven, and open-source competitive rhythm game available on Steam.",
+            "homepage": "https://quavergame.com/steam",
             "id": 101938650,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T18:58:39Z",
+            "open_issues": 74,
             "owner": "Quaver",
             "repo": "Quaver",
-            "stars": 794
+            "stars": 794,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "game",
+              "monogame",
+              "multiplayer-game",
+              "open-source",
+              "quaver",
+              "ranking",
+              "rhythm-game",
+              "steam",
+              "xna"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1044,12 +1499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source shooter Relic Hunters Zero",
+            "homepage": null,
             "id": 39799813,
             "language": "Yacc",
+            "license": null,
             "last_commit": "2022-11-13T16:21:17Z",
+            "open_issues": 13,
             "owner": "mventurelli",
             "repo": "relichunterszero",
-            "stars": 448
+            "stars": 448,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1066,12 +1526,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game",
+            "homepage": "https://harmonymonroe.com",
             "id": 412913066,
             "language": "GDScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T23:19:17Z",
+            "open_issues": 9,
             "owner": "HarmonyHoney",
             "repo": "ROTA",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "2d-game",
+              "2d-platformer",
+              "android",
+              "android-game",
+              "cross-platform",
+              "desktop-game",
+              "game",
+              "game-development",
+              "gamedev",
+              "godot",
+              "godot-engine",
+              "godot3",
+              "godotengine",
+              "linux",
+              "mobile-game",
+              "multiplatform",
+              "open-source",
+              "platformer-game",
+              "puzzle-game",
+              "vector-art"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1088,12 +1574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A standalone server for programming game Screeps",
+            "homepage": null,
             "id": 73262827,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-04-01T17:48:44Z",
+            "open_issues": 59,
             "owner": "screeps",
             "repo": "screeps",
-            "stars": 3342
+            "stars": 3342,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1110,12 +1601,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solve puzzles by designing an AI for a team of selfless heroes. Test your algorithm, optimize it, and emerge victorious from the dungeon!",
+            "homepage": "https://selflessheroes.fr",
             "id": 177166841,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-11T08:58:05Z",
+            "open_issues": 25,
             "owner": "felicien-brochu",
             "repo": "selflessheroes",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "algorithmic",
+              "educational",
+              "electron",
+              "electron-builder",
+              "game",
+              "phaser3",
+              "puzzle-game",
+              "serious-game",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1132,12 +1638,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free oldschool point & click graphic adventure game",
+            "homepage": "https://www.sessionseven.com",
             "id": 133827572,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-11-24T20:36:38Z",
+            "open_issues": 0,
             "owner": "advdotnet",
             "repo": "Session-Seven",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "adventure-game",
+              "click-adventure-game",
+              "fna",
+              "game",
+              "game-development",
+              "gamedev",
+              "xna-fna"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1154,12 +1673,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shapez is an open source base building game on Steam inspired by factorio!",
+            "homepage": "https://get.shapez.io/gh",
             "id": 255365829,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-28T06:56:37Z",
+            "open_issues": 201,
             "owner": "tobspr-games",
             "repo": "shapez.io",
-            "stars": 6950
+            "stars": 6949,
+            "topics": [
+              "game",
+              "game-2d",
+              "game-development",
+              "gamedev",
+              "games",
+              "javascript-game"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1176,12 +1707,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+            "homepage": "https://getsharex.com",
             "id": 13428264,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T06:16:02Z",
+            "open_issues": 663,
             "owner": "ShareX",
             "repo": "ShareX",
-            "stars": 39348
+            "stars": 39356,
+            "topics": [
+              "avalonia",
+              "capture",
+              "color-picker",
+              "csharp",
+              "dropbox",
+              "file-sharing",
+              "file-upload",
+              "ftp",
+              "gif",
+              "gif-recorder",
+              "image-annotation",
+              "ocr",
+              "productivity",
+              "region-capture",
+              "screen-capture",
+              "screen-recorder",
+              "screenshot",
+              "share",
+              "sharex",
+              "url-shortener"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1198,12 +1755,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+            "homepage": "https://shatteredpixel.com/shatteredpd/",
             "id": 22486533,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T14:52:52Z",
+            "open_issues": 11,
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
-            "stars": 6465
+            "stars": 6465,
+            "topics": [
+              "android",
+              "game",
+              "game-development",
+              "ios",
+              "java",
+              "libgdx"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1220,12 +1789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirror of Simutrans SVN Repository",
+            "homepage": "http://www.simutrans.com/",
             "id": 112724,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T22:36:24Z",
+            "open_issues": 9,
             "owner": "aburch",
             "repo": "simutrans",
-            "stars": 450
+            "stars": 450,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1242,12 +1816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for Skin Deep (2025)",
+            "homepage": "https://blendogames.com/skindeep",
             "id": 1005731695,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-01T21:13:26Z",
+            "open_issues": 1,
             "owner": "blendogames",
             "repo": "SkinDeep",
-            "stars": 188
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1264,12 +1843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://romansixvigaming.com/snake/",
             "id": 252552114,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-27T12:30:01Z",
+            "open_issues": 0,
             "owner": "Romans-I-XVI",
             "repo": "MonoGame-Snake",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1286,12 +1870,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A replayable arcade shooter where you control a snake of heroes.",
+            "homepage": null,
             "id": 339932211,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-07-01T13:13:48Z",
+            "open_issues": 12,
             "owner": "a327ex",
             "repo": "SNKRX",
-            "stars": 1996
+            "stars": 1996,
+            "topics": [
+              "2d",
+              "game",
+              "gamedev",
+              "indie",
+              "indiedev",
+              "love2d",
+              "lua",
+              "rpg",
+              "shooter"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1308,12 +1907,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A HTML5 game of strategy, intrigue and galactic conquest.",
+            "homepage": "https://solaris.games",
             "id": 208426668,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T21:11:08Z",
+            "open_issues": 239,
             "owner": "solaris-games",
             "repo": "solaris",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "4x",
+              "4x-strategy-game",
+              "games",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1330,12 +1939,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soldat: Remastered is a fork of the classic 2d shooter",
+            "homepage": null,
             "id": 509701750,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-07-08T12:43:48Z",
+            "open_issues": 1,
             "owner": "soldat",
             "repo": "soldat",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "2d",
+              "opensource",
+              "shooter",
+              "soldat"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1352,12 +1971,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.",
+            "homepage": "https://spacestation14.com",
             "id": 92001425,
             "language": "C#",
-            "last_commit": "2026-08-28T12:37:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:49:10Z",
+            "open_issues": 4228,
             "owner": "space-wizards",
             "repo": "space-station-14",
-            "stars": 3762
+            "stars": 3762,
+            "topics": [
+              "c-sharp",
+              "game",
+              "space-station-13",
+              "space-station-14",
+              "ss13",
+              "ss14"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1374,12 +2005,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "4X Space Strategy game Star Ruler 2's open source distribution.",
+            "homepage": "http://starruler2.com",
             "id": 141283339,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-18T12:54:13Z",
+            "open_issues": 56,
             "owner": "BlindMindStudios",
             "repo": "StarRuler2-Source",
-            "stars": 1528
+            "stars": 1528,
+            "topics": [
+              "c-plus-plus",
+              "cpp",
+              "engine",
+              "engine3d",
+              "game",
+              "game-engine",
+              "star-ruler-2"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1396,12 +2040,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SuperTux source code",
+            "homepage": "https://supertux.org",
             "id": 14650917,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T21:52:52Z",
+            "open_issues": 368,
             "owner": "SuperTux",
             "repo": "supertux",
-            "stars": 3133
+            "stars": 3134,
+            "topics": [
+              "c-plus-plus",
+              "game",
+              "games",
+              "opengl",
+              "sdl",
+              "sdl3",
+              "supertux"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1418,12 +2075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indie Turn Based Strategy in Isometric Voxel Art http://tof.p1x.in",
+            "homepage": null,
             "id": 176313244,
             "language": "GDScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-02T06:46:27Z",
+            "open_issues": 9,
             "owner": "P1X-in",
             "repo": "tanks-of-freedom-ii",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1440,12 +2102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate real-time strategy",
+            "homepage": null,
             "id": 536250802,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-26T08:46:12Z",
+            "open_issues": 0,
             "owner": "milgra",
             "repo": "termite",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1462,12 +2129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Castles of Dr. Creep",
+            "homepage": "http://creep.sourceforge.net/",
             "id": 7062712,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2022-03-18T21:13:30Z",
+            "open_issues": 1,
             "owner": "segrax",
             "repo": "DrCreep",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1484,12 +2156,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for Infiland's game The Colorful Creature on Steam",
+            "homepage": "https://store.steampowered.com/app/1651680/The_Colorful_Creature/",
             "id": 727857046,
             "language": "Game Maker Language",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-13T22:00:53Z",
+            "open_issues": 18,
             "owner": "Infiland",
             "repo": "TheColorfulCreature",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "2d",
+              "2d-game",
+              "desktop",
+              "game",
+              "game-development",
+              "level-editor",
+              "linux",
+              "open-source",
+              "platformer",
+              "steam",
+              "steam-game"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1506,12 +2195,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.",
+            "homepage": "http://powdertoy.co.uk",
             "id": 796532,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T21:14:36Z",
+            "open_issues": 40,
             "owner": "The-Powder-Toy",
             "repo": "The-Powder-Toy",
-            "stars": 5281
+            "stars": 5282,
+            "topics": [
+              "cellular-automata",
+              "game",
+              "powder",
+              "powder-toy",
+              "sandbox",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1528,12 +2229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Secret of Tremendous Corporation - game from Global Game Jam 2015",
+            "homepage": "https://tremendouscorp.com/",
             "id": 43497680,
             "language": "Makefile",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2018-11-20T19:05:59Z",
+            "open_issues": 0,
             "owner": "dos1",
             "repo": "AdventureTheGame",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1550,12 +2256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of Thirty Flights of Loving (2012)",
+            "homepage": "http://blendogames.com/thirtyflightsofloving",
             "id": 271874324,
             "language": "C",
+            "license": null,
             "last_commit": "2026-06-18T03:45:31Z",
+            "open_issues": 1,
             "owner": "blendogames",
             "repo": "thirtyflightsofloving",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1572,12 +2283,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The main repository for the development of the evolution game Thrive. ",
+            "homepage": "https://www.revolutionarygamesstudio.com/",
             "id": 5616877,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:24:52Z",
+            "open_issues": 520,
             "owner": "Revolutionary-Games",
             "repo": "Thrive",
-            "stars": 3665
+            "stars": 3667,
+            "topics": [
+              "biology",
+              "csharp",
+              "evolution",
+              "game",
+              "godot",
+              "godot-engine",
+              "sandbox",
+              "science",
+              "simulation",
+              "strategy",
+              "thrive"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1594,12 +2322,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations ",
+            "homepage": "https://www.tmodloader.net/",
             "id": 39425864,
             "language": "C#",
-            "last_commit": "2026-08-28T00:34:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:04:58Z",
+            "open_issues": 614,
             "owner": "tModLoader",
             "repo": "tModLoader",
-            "stars": 5596
+            "stars": 5598,
+            "topics": [
+              "api",
+              "game",
+              "steam",
+              "terraria",
+              "terraria-modding-api",
+              "tml",
+              "tmodloader"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1616,12 +2357,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The code that powers Tomatenquark",
+            "homepage": "https://tomatenquark.github.io/",
             "id": 237266637,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-13T16:15:41Z",
+            "open_issues": 5,
             "owner": "tomatenquark",
             "repo": "code",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1638,12 +2384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the Towns game",
+            "homepage": null,
             "id": 1214626040,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-25T10:31:37Z",
+            "open_issues": 0,
             "owner": "supermalparit",
             "repo": "Towns",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1660,12 +2411,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Top-down shoot'em up with gravity gun and physics puzzles",
+            "homepage": "https://store.steampowered.com/app/512920",
             "id": 172205441,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-09-18T10:35:56Z",
+            "open_issues": 3,
             "owner": "Sheph",
             "repo": "TriggerTime",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "2d",
+              "2d-game",
+              "action",
+              "arcade",
+              "cross-platform",
+              "game",
+              "game-development",
+              "game-engine",
+              "game-programming",
+              "gamedev",
+              "games",
+              "indie",
+              "linux",
+              "open-source-game",
+              "sci-fi",
+              "shooter",
+              "steam",
+              "steam-api",
+              "top-down",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1682,12 +2459,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent text RPG where 60+ autonomous NPCs live, marry, and die 24/7 — whether you're playing or not. Inspired by Usurper (1993).",
+            "homepage": "https://usurper-reborn.net",
             "id": 1011291435,
             "language": "C#",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-09T04:57:40Z",
+            "open_issues": 12,
             "owner": "binary-knight",
             "repo": "usurper-reborn",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "bbs",
+              "door-game",
+              "gaming",
+              "retrogaming",
+              "text-based-game"
+            ]
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1704,12 +2492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strategy game based on history, mythology and fiction",
+            "homepage": "http://andrettin.github.io/",
             "id": 15649903,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2025-04-17T07:05:26Z",
+            "open_issues": 36,
             "owner": "Andrettin",
             "repo": "Wyrmsun",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
         }
@@ -1718,15 +2511,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:03:46.682Z",
+    "last_updated": "2026-08-29T04:48:41.437Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of FLOSS games, mods and software available on Steam (86 so far)",
+      "homepage": null,
       "id": 92621889,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-04-28T20:35:52Z",
+      "open_issues": 9,
       "owner": "Poussinou",
       "repo": "FLOSS-Games-on-Steam",
-      "stars": 351
+      "stars": 351,
+      "topics": [
+        "awesome-list",
+        "floss",
+        "foss",
+        "game",
+        "games",
+        "list",
+        "mod",
+        "open-source",
+        "steam",
+        "valve",
+        "video-game"
+      ]
     },
     "original_repository_sha": "369576ba9ec5bb0438c55b39e967f207168fd71e",
     "enhanced_repository": "enhansome/enhansome-FLOSS-Games-on-Steam",
