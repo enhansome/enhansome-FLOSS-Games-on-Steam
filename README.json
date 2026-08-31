@@ -15,7 +15,7 @@
             "id": 485105295,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-28T19:47:46Z",
+            "last_commit": "2026-08-30T12:41:26Z",
             "open_issues": 270,
             "owner": "ReactiveDrop",
             "repo": "reactivedrop_public_src",
@@ -52,7 +52,7 @@
             "open_issues": 7,
             "owner": "FrictionalGames",
             "repo": "AmnesiaAMachineForPigs",
-            "stars": 1455,
+            "stars": 1456,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -79,7 +79,7 @@
             "open_issues": 18,
             "owner": "FrictionalGames",
             "repo": "AmnesiaTheDarkDescent",
-            "stars": 3669,
+            "stars": 3670,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -139,7 +139,7 @@
             "open_issues": 152,
             "owner": "TurningWheel",
             "repo": "Barony",
-            "stars": 710,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -162,11 +162,11 @@
             "id": 9432220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-30T02:07:11Z",
-            "open_issues": 1494,
+            "last_commit": "2026-08-31T01:44:33Z",
+            "open_issues": 1497,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6849,
+            "stars": 6853,
             "topics": [
               "fantasy",
               "free",
@@ -353,11 +353,11 @@
             "id": 5973855,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T04:55:01Z",
-            "open_issues": 1806,
+            "last_commit": "2026-08-31T05:31:00Z",
+            "open_issues": 1808,
             "owner": "CleverRaven",
             "repo": "Cataclysm-DDA",
-            "stars": 13053,
+            "stars": 13058,
             "topics": [
               "c-plus-plus",
               "cataclysm",
@@ -386,7 +386,7 @@
             "id": 874091023,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T21:03:00Z",
+            "last_commit": "2026-08-30T18:18:53Z",
             "open_issues": 64,
             "owner": "Cataclysm-TLG",
             "repo": "Cataclysm-TLG",
@@ -494,11 +494,11 @@
             "id": 4315538,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T06:51:39Z",
-            "open_issues": 978,
+            "last_commit": "2026-08-31T06:54:36Z",
+            "open_issues": 974,
             "owner": "defold",
             "repo": "defold",
-            "stars": 6273,
+            "stars": 6274,
             "topics": [
               "c-plus-plus",
               "clojure",
@@ -692,10 +692,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-29T12:28:44Z",
-            "open_issues": 18811,
+            "open_issues": 18828,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116371,
+            "stars": 116410,
             "topics": [
               "game-development",
               "game-engine",
@@ -784,7 +784,7 @@
             "open_issues": 0,
             "owner": "strangergwenn",
             "repo": "HeliumRain",
-            "stars": 785,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -1052,11 +1052,11 @@
             "id": 89822531,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T22:23:59Z",
-            "open_issues": 41,
+            "last_commit": "2026-08-30T20:17:00Z",
+            "open_issues": 29,
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28769,
+            "stars": 28778,
             "topics": [
               "android",
               "desktop",
@@ -1163,10 +1163,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-26T18:05:18Z",
-            "open_issues": 1170,
+            "open_issues": 1171,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75602,
+            "stars": 75644,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1465,7 +1465,7 @@
             "id": 101938650,
             "language": "C#",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-26T18:58:39Z",
+            "last_commit": "2026-08-30T14:07:30Z",
             "open_issues": 75,
             "owner": "Quaver",
             "repo": "Quaver",
@@ -1508,7 +1508,7 @@
             "open_issues": 13,
             "owner": "mventurelli",
             "repo": "relichunterszero",
-            "stars": 448,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -1583,7 +1583,7 @@
             "open_issues": 59,
             "owner": "screeps",
             "repo": "screeps",
-            "stars": 3342,
+            "stars": 3343,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -1682,7 +1682,7 @@
             "open_issues": 201,
             "owner": "tobspr-games",
             "repo": "shapez.io",
-            "stars": 6949,
+            "stars": 6950,
             "topics": [
               "game",
               "game-2d",
@@ -1712,11 +1712,11 @@
             "id": 13428264,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T05:21:00Z",
-            "open_issues": 660,
+            "last_commit": "2026-08-31T06:56:28Z",
+            "open_issues": 659,
             "owner": "ShareX",
             "repo": "ShareX",
-            "stars": 39373,
+            "stars": 39388,
             "topics": [
               "avalonia",
               "capture",
@@ -1764,7 +1764,7 @@
             "open_issues": 11,
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
-            "stars": 6465,
+            "stars": 6467,
             "topics": [
               "android",
               "game",
@@ -1825,7 +1825,7 @@
             "open_issues": 1,
             "owner": "blendogames",
             "repo": "SkinDeep",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -1948,7 +1948,7 @@
             "open_issues": 1,
             "owner": "soldat",
             "repo": "soldat",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "2d",
               "opensource",
@@ -1976,11 +1976,11 @@
             "id": 92001425,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-30T04:08:36Z",
-            "open_issues": 4241,
+            "last_commit": "2026-08-30T14:12:46Z",
+            "open_issues": 4259,
             "owner": "space-wizards",
             "repo": "space-station-14",
-            "stars": 3762,
+            "stars": 3763,
             "topics": [
               "c-sharp",
               "game",
@@ -2049,7 +2049,7 @@
             "open_issues": 370,
             "owner": "SuperTux",
             "repo": "supertux",
-            "stars": 3134,
+            "stars": 3136,
             "topics": [
               "c-plus-plus",
               "game",
@@ -2084,7 +2084,7 @@
             "open_issues": 9,
             "owner": "P1X-in",
             "repo": "tanks-of-freedom-ii",
-            "stars": 420,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:46.682Z"
@@ -2288,11 +2288,11 @@
             "id": 5616877,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T12:24:52Z",
+            "last_commit": "2026-08-30T13:58:35Z",
             "open_issues": 519,
             "owner": "Revolutionary-Games",
             "repo": "Thrive",
-            "stars": 3668,
+            "stars": 3670,
             "topics": [
               "biology",
               "csharp",
@@ -2331,7 +2331,7 @@
             "open_issues": 617,
             "owner": "tModLoader",
             "repo": "tModLoader",
-            "stars": 5607,
+            "stars": 5610,
             "topics": [
               "api",
               "game",
@@ -2511,7 +2511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T06:57:01.361Z",
+    "last_updated": "2026-08-31T07:11:29.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FLOSS games, mods and software available on Steam (86 so far)",
