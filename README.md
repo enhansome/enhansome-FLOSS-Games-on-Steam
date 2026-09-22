@@ -143,7 +143,7 @@ Barony is the premier first-person roguelike with cooperative play. Cryptic item
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) ⭐ 6,884 | 🐛 1,485 | 🌐 C++ | 📅 2026-09-21 | [GNU General Public License v2.0](https://github.com/wesnoth/wesnoth/blob/master/COPYING) ⭐ 6,884 | 🐛 1,485 | 🌐 C++ | 📅 2026-09-21 | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
+[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) ⭐ 6,885 | 🐛 1,484 | 🌐 C++ | 📅 2026-09-21 | [GNU General Public License v2.0](https://github.com/wesnoth/wesnoth/blob/master/COPYING) ⭐ 6,885 | 🐛 1,484 | 🌐 C++ | 📅 2026-09-21 | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
@@ -165,7 +165,7 @@ The Battle for Wesnoth is an open source, turn-based strategy game with a high f
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1812820/Bitburner/) | [Source Code](https://github.com/danielyxie/bitburner) ⭐ 2,844 | 🐛 9 | 🌐 HTML | 📅 2025-02-22 | [License Apache 2.0](https://github.com/danielyxie/bitburner/blob/dev/license.txt) ⭐ 2,844 | 🐛 9 | 🌐 HTML | 📅 2025-02-22 | [Tutorials & Help](http://bitburner.readthedocs.io/) | [Website](https://danielyxie.github.io/bitburner/) | [Forums](https://discord.gg/TFc3hKD)
+[Game on Steam](https://store.steampowered.com/app/1812820/Bitburner/) | [Source Code](https://github.com/danielyxie/bitburner) ⭐ 2,845 | 🐛 9 | 🌐 HTML | 📅 2025-02-22 | [License Apache 2.0](https://github.com/danielyxie/bitburner/blob/dev/license.txt) ⭐ 2,845 | 🐛 9 | 🌐 HTML | 📅 2025-02-22 | [Tutorials & Help](http://bitburner.readthedocs.io/) | [Website](https://danielyxie.github.io/bitburner/) | [Forums](https://discord.gg/TFc3hKD)
 
 Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.
 
@@ -271,7 +271,7 @@ Steal everything you can and flee from the Burning Knight's castle in this actio
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/760330/BYTEPATH/) | [Source Code](https://github.com/a327ex/BYTEPATH) ⭐ 1,541 | 🐛 4 | 🌐 Lua | 📅 2020-10-17
+[Game on Steam](https://store.steampowered.com/app/760330/BYTEPATH/) | [Source Code](https://github.com/a327ex/BYTEPATH) ⭐ 1,540 | 🐛 4 | 🌐 Lua | 📅 2020-10-17
 
 BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies.
 
@@ -292,7 +292,7 @@ BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Us
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) | [Source Code](https://github.com/CleverRaven/Cataclysm-DDA/) ⭐ 13,195 | 🐛 1,797 | 🌐 C++ | 📅 2026-09-21 | [Website](https://cataclysmdda.org/) | [Tutorials & Help](https://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page) | [Forums](https://discourse.cataclysmdda.org/) | [Donate](https://cataclysmdda.org/donations/)
+[Game on Steam](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) | [Source Code](https://github.com/CleverRaven/Cataclysm-DDA/) ⭐ 13,211 | 🐛 1,796 | 🌐 C++ | 📅 2026-09-22 | [Website](https://cataclysmdda.org/) | [Tutorials & Help](https://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page) | [Forums](https://discourse.cataclysmdda.org/) | [Donate](https://cataclysmdda.org/donations/)
 
 The epitome of a modern traditional roguelike: with turn-based play and a RPG-like skill progression system, it hearkens back to some of the major aspects of this genre. This game has an incredible depth, with a deep inventory system, vehicles and boats, NPCs with their own stories, and more.
 
@@ -313,7 +313,7 @@ The epitome of a modern traditional roguelike: with turn-based play and a RPG-li
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/3560030/Cataclysm_The_Last_Generation/) | [Source Code](https://github.com/Cataclysm-TLG/Cataclysm-TLG) ⭐ 406 | 🐛 65 | 🌐 C++ | 📅 2026-09-21
+[Game on Steam](https://store.steampowered.com/app/3560030/Cataclysm_The_Last_Generation/) | [Source Code](https://github.com/Cataclysm-TLG/Cataclysm-TLG) ⭐ 407 | 🐛 65 | 🌐 C++ | 📅 2026-09-22
 
 A post-apocalyptic roguelike set in modern-day New England. Scavenge tools to craft an arsenal capable of dealing with the ever-evolving hordes of zombies, mutants, aliens, and robots in one of the deepest survival sims around.
 
@@ -461,7 +461,7 @@ In this 2D, short narrative-based game, you assume the role of the Grim Reaper..
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/1365760/Defold/) | [Source Code](https://github.com/defold/defold) ⭐ 6,308 | 🐛 968 | 🌐 C++ | 📅 2026-09-21 | [License Apache 2.0](https://github.com/defold/defold/blob/dev/LICENSE.txt) ⭐ 6,308 | 🐛 968 | 🌐 C++ | 📅 2026-09-21 | [Website](https://defold.com/) | [Donate](https://defold.com/donate/)
+[Software on Steam](https://store.steampowered.com/app/1365760/Defold/) | [Source Code](https://github.com/defold/defold) ⭐ 6,308 | 🐛 964 | 🌐 C++ | 📅 2026-09-22 | [License Apache 2.0](https://github.com/defold/defold/blob/dev/LICENSE.txt) ⭐ 6,308 | 🐛 964 | 🌐 C++ | 📅 2026-09-22 | [Website](https://defold.com/) | [Donate](https://defold.com/donate/)
 
 Defold is a free and open game engine used for development of desktop, mobile and web games.
 
@@ -548,7 +548,7 @@ A Co-op spaceship bridge simulator where you form a crew of 3 to 6 players servi
 
 <!-- HyperLinks -->
 
-[Game on Steam](http://store.steampowered.com/app/404410/Endless_Sky/) | [Tutorials & Help](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) ⭐ 7,575 | 🐛 916 | 🌐 C++ | 📅 2026-09-18 | [Source code](https://github.com/endless-sky) | [Website](http://endless-sky.github.io/) | [News](http://endless-sky.github.io/blog.html)
+[Game on Steam](http://store.steampowered.com/app/404410/Endless_Sky/) | [Tutorials & Help](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) ⭐ 7,577 | 🐛 913 | 🌐 C++ | 📅 2026-09-21 | [Source code](https://github.com/endless-sky) | [Website](http://endless-sky.github.io/) | [News](http://endless-sky.github.io/blog.html)
 
 Endless Sky is a 2D space trading and combat game inspired by the classic Escape Velocity series. Work your way up from a relatively wimpy shuttle, cargo ship, or fighter, to a highly upgraded and customized flagship or to a massive fleet of warships or freighters.
 
@@ -649,7 +649,7 @@ FreedroidRPG is an open source sci-fi role playing game, where the player (playi
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/404790/Godot_Engine/) | [Source Code](https://github.com/godotengine/godot) ⭐ 117,531 | 🐛 18,911 | 🌐 C++ | 📅 2026-09-20 | [License MIT](https://github.com/godotengine/godot/blob/master/LICENSE.txt) ⭐ 117,531 | 🐛 18,911 | 🌐 C++ | 📅 2026-09-20 | [Website](https://godotengine.org/) | [Donate](https://fund.godotengine.org/)
+[Software on Steam](https://store.steampowered.com/app/404790/Godot_Engine/) | [Source Code](https://github.com/godotengine/godot) ⭐ 117,579 | 🐛 18,907 | 🌐 C++ | 📅 2026-09-21 | [License MIT](https://github.com/godotengine/godot/blob/master/LICENSE.txt) ⭐ 117,579 | 🐛 18,907 | 🌐 C++ | 📅 2026-09-21 | [Website](https://godotengine.org/) | [Donate](https://fund.godotengine.org/)
 
 Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel.
 
@@ -797,7 +797,7 @@ A tactical puzzle/roguelike on a hyperbolic plane.
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/709240/Ingnomia/) | [Source Code](https://github.com/rschurade/Ingnomia) ⭐ 272 | 🐛 35 | 🌐 C++ | 📅 2026-09-12
+[Game on Steam](https://store.steampowered.com/app/709240/Ingnomia/) | [Source Code](https://github.com/rschurade/Ingnomia) ⭐ 271 | 🐛 35 | 🌐 C++ | 📅 2026-09-12
 
 Following in the footsteps of Dwarf Fortress and Gnomoria, this game aims to provide the best experience of both worlds. The graphics and accessibility of Gnomoria and the depth and rich content of Dwarf Fortress.
 
@@ -840,7 +840,7 @@ Explore a ruined open world of caverns and settlements. Hack and slash your way 
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](https://miki151.github.io/keeperrl_wiki/Gameplay_Guide/) | [Source code](https://github.com/miki151/keeperrl) ⭐ 1,002 | 🐛 719 | 🌐 C++ | 📅 2025-10-27 | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News)
+[Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](https://miki151.github.io/keeperrl_wiki/Gameplay_Guide/) | [Source code](https://github.com/miki151/keeperrl) ⭐ 1,003 | 🐛 719 | 🌐 C++ | 📅 2025-10-27 | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News)
 
 Ambitious dungeon simulator with roguelike and RPG elements. Take the role of an evil wizard and study the methods of black magic. Equip your minions and explore the world, murder innocent villagers and burn their homes. Build your dungeon, lay traps and prepare for an assault of angry heroes.
 
@@ -1044,7 +1044,7 @@ MegaGlest is an open source cross-platform 3D real-time strategy (RTS) game, whe
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Source code](https://github.com/Anuken/Mindustry) ⭐ 29,059 | 🐛 12 | 🌐 Java | 📅 2026-09-21 | [Website](https://mindustrygame.github.io/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/)
+[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Source code](https://github.com/Anuken/Mindustry) ⭐ 29,070 | 🐛 16 | 🌐 Java | 📅 2026-09-21 | [Website](https://mindustrygame.github.io/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/)
 
 An open-ended tower-defense game with a focus on resource management.
 
@@ -1125,7 +1125,7 @@ Naev is a game about space exploration, trade and combat. Players travel the gal
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/1905180/OBS_Studio/) | [Source Code](https://github.com/obsproject/obs-studio) ⭐ 76,473 | 🐛 1,145 | 🌐 C | 📅 2026-09-19 | [Licence GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING) ⭐ 76,473 | 🐛 1,145 | 🌐 C | 📅 2026-09-19 | [Website](https://obsproject.com/) | [Forums](https://obsproject.com/forum/) | [Donate](https://www.patreon.com/obsproject)
+[Software on Steam](https://store.steampowered.com/app/1905180/OBS_Studio/) | [Source Code](https://github.com/obsproject/obs-studio) ⭐ 76,508 | 🐛 1,143 | 🌐 C | 📅 2026-09-22 | [Licence GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING) ⭐ 76,508 | 🐛 1,143 | 🌐 C | 📅 2026-09-22 | [Website](https://obsproject.com/) | [Forums](https://obsproject.com/forum/) | [Donate](https://www.patreon.com/obsproject)
 
 Free and open-source software for video recording and live streaming
 
@@ -1253,7 +1253,7 @@ Penumbra: Overture is a first person survival horror game, emphasizing on surviv
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/2779170/Pixelorama/) | [Source Code](https://github.com/PixiEditor/PixiEditor) ⭐ 8,049 | 🐛 264 | 🌐 C# | 📅 2026-09-18 | [License MIT](https://github.com/PixiEditor/PixiEditor/blob/master/LICENSE) ⭐ 8,049 | 🐛 264 | 🌐 C# | 📅 2026-09-18 | [Website](https://www.oramainteractive.com/) | [Donate](https://www.patreon.com/OramaInteractive)
+[Software on Steam](https://store.steampowered.com/app/2779170/Pixelorama/) | [Source Code](https://github.com/PixiEditor/PixiEditor) ⭐ 8,053 | 🐛 265 | 🌐 C# | 📅 2026-09-21 | [License MIT](https://github.com/PixiEditor/PixiEditor/blob/master/LICENSE) ⭐ 8,053 | 🐛 265 | 🌐 C# | 📅 2026-09-21 | [Website](https://www.oramainteractive.com/) | [Donate](https://www.patreon.com/OramaInteractive)
 
 Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features.
 
@@ -1273,7 +1273,7 @@ Unleash your creativity with Pixelorama, a powerful and accessible open-source p
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/2218560/PixiEditor__Pixel_Art_Editor/) | [Source Code](https://github.com/PixiEditor/PixiEditor) ⭐ 8,049 | 🐛 264 | 🌐 C# | 📅 2026-09-18 | [GNU Lesser General Public License v3.0](https://github.com/PixiEditor/PixiEditor/blob/master/LICENSE) ⭐ 8,049 | 🐛 264 | 🌐 C# | 📅 2026-09-18 | [Website](https://pixieditor.net/) | [Donate](https://pixieditor.net/donate)
+[Software on Steam](https://store.steampowered.com/app/2218560/PixiEditor__Pixel_Art_Editor/) | [Source Code](https://github.com/PixiEditor/PixiEditor) ⭐ 8,053 | 🐛 265 | 🌐 C# | 📅 2026-09-21 | [GNU Lesser General Public License v3.0](https://github.com/PixiEditor/PixiEditor/blob/master/LICENSE) ⭐ 8,053 | 🐛 265 | 🌐 C# | 📅 2026-09-21 | [Website](https://pixieditor.net/) | [Donate](https://pixieditor.net/donate)
 
 PixiEditor is a pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme. Have you ever used Photoshop, Gimp or Aseprite? We want users to get familiar with the tool quickly and with ease.
 
@@ -1339,7 +1339,7 @@ When you have a top-of-the-line hacking deck armed with a 56.6k modem and a stag
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/980610/Quaver/) | [Source Code](https://github.com/Quaver/Quaver) ⭐ 799 | 🐛 78 | 🌐 C# | 📅 2026-09-11 | [Website](https://quavergame.com/) | [Donate](https://quavergame.com/donate)
+[Game on Steam](https://store.steampowered.com/app/980610/Quaver/) | [Source Code](https://github.com/Quaver/Quaver) ⭐ 800 | 🐛 78 | 🌐 C# | 📅 2026-09-11 | [Website](https://quavergame.com/) | [Donate](https://quavergame.com/donate)
 
 Quaver is a community-driven and open-source competitive rhythm game with two game modes and online leaderboards. Create your own maps or challenge the world in online multiplayer matches.
 
@@ -1448,7 +1448,7 @@ Enter a unique science fantasy MMORPG and dive into a unique organic living worl
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/464350/Screeps/) | [Source Code](https://github.com/screeps/screeps) ⭐ 3,351 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-01 | [Website](https://screeps.com/) | [News](https://screeps.com/forum/category/5/news-announcements) | [Forums](https://screeps.com/forum/)
+[Game on Steam](https://store.steampowered.com/app/464350/Screeps/) | [Source Code](https://github.com/screeps/screeps) ⭐ 3,350 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-01 | [Website](https://screeps.com/) | [News](https://screeps.com/forum/category/5/news-announcements) | [Forums](https://screeps.com/forum/)
 
 Screeps is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.
 
@@ -1512,7 +1512,7 @@ Session Seven is a free point & click adventure game in which you play as Ryan, 
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1318690/shapezio/) | [Source Code](https://github.com/tobspr/shapez.io) ⭐ 6,973 | 🐛 201 | 🌐 JavaScript | 📅 2026-09-07 | [Website](https://shapez.io/)
+[Game on Steam](https://store.steampowered.com/app/1318690/shapezio/) | [Source Code](https://github.com/tobspr/shapez.io) ⭐ 6,974 | 🐛 201 | 🌐 JavaScript | 📅 2026-09-07 | [Website](https://shapez.io/)
 
 shapez.io is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.
 
@@ -1532,7 +1532,7 @@ shapez.io is a game about building factories to automate the creation and proces
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/400040/ShareX/) | [Source Code](https://github.com/ShareX/ShareX) ⭐ 39,672 | 🐛 644 | 🌐 C# | 📅 2026-09-21 | [GNU General Public License v3.0](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt) ⭐ 39,672 | 🐛 644 | 🌐 C# | 📅 2026-09-21 | [Website](https://getsharex.com/) | [Donate](https://getsharex.com/donate)
+[Software on Steam](https://store.steampowered.com/app/400040/ShareX/) | [Source Code](https://github.com/ShareX/ShareX) ⭐ 39,683 | 🐛 642 | 🌐 C# | 📅 2026-09-22 | [GNU General Public License v3.0](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt) ⭐ 39,683 | 🐛 642 | 🌐 C# | 📅 2026-09-22 | [Website](https://getsharex.com/) | [Donate](https://getsharex.com/donate)
 
 ShareX is a free and open source program that can capture or record selected area from the screen with a single keypress, automatically save them to your hard disk/clipboard, and instantly upload them to an image/file hosting service and then can copy the URL to your clipboard.
 
@@ -1554,7 +1554,7 @@ ShareX is a free and open source program that can capture or record selected are
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,556 | 🐛 8 | 🌐 Java | 📅 2026-09-09 | [Website](https://shatteredpixel.com/shatteredpd/) | [News](https://shatteredpixel.com/blog/) | [Donate](https://www.patreon.com/ShatteredPixel)
+[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,560 | 🐛 7 | 🌐 Java | 📅 2026-09-09 | [Website](https://shatteredpixel.com/shatteredpd/) | [News](https://shatteredpixel.com/blog/) | [Donate](https://www.patreon.com/ShatteredPixel)
 
 Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master!
 
@@ -1638,7 +1638,7 @@ Play the classic that transcends generations.
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/915310/SNKRX/) | [Source Code](https://github.com/a327ex/SNKRX) ⭐ 1,999 | 🐛 12 | 🌐 Lua | 📅 2022-07-01
+[Game on Steam](https://store.steampowered.com/app/915310/SNKRX/) | [Source Code](https://github.com/a327ex/SNKRX) ⭐ 1,998 | 🐛 12 | 🌐 Lua | 📅 2022-07-01
 
 SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.
 
@@ -1658,7 +1658,7 @@ SNKRX is an arcade shooter roguelite where you control a snake of heroes that au
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1623930/Solaris/) | [Source Code](https://github.com/solaris-games/solaris) ⭐ 233 | 🐛 246 | 🌐 TypeScript | 📅 2026-09-20 | [License GPLv3](https://github.com/solaris-games/solaris/blob/master/LICENSE) ⭐ 233 | 🐛 246 | 🌐 TypeScript | 📅 2026-09-20 | [Tutorials & Help](https://solaris4x.readthedocs.io/en/latest/) | [Website](https://solaris.games/#/) | [Donate](https://www.buymeacoffee.com/hyperi0n)
+[Game on Steam](https://store.steampowered.com/app/1623930/Solaris/) | [Source Code](https://github.com/solaris-games/solaris) ⭐ 233 | 🐛 246 | 🌐 TypeScript | 📅 2026-09-21 | [License GPLv3](https://github.com/solaris-games/solaris/blob/master/LICENSE) ⭐ 233 | 🐛 246 | 🌐 TypeScript | 📅 2026-09-21 | [Tutorials & Help](https://solaris4x.readthedocs.io/en/latest/) | [Website](https://solaris.games/#/) | [Donate](https://www.buymeacoffee.com/hyperi0n)
 
 Discover a space strategy game filled with conquest, betrayal and subterfuge. Build alliances, make enemies and fight your way to victory and galactic domination. Will you conquer the galaxy?
 
@@ -1699,7 +1699,7 @@ Soldat is a unique 2D (side-view) multiplayer action game. It has been influence
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Source Code](https://github.com/space-wizards/space-station-14) ⭐ 3,827 | 🐛 4,309 | 🌐 C# | 📅 2026-09-20 | [License MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT) ⭐ 3,827 | 🐛 4,309 | 🌐 C# | 📅 2026-09-20 | [Tutorials & Help](https://wiki.spacestation14.io/wiki/Main_Page) | [Website](https://spacestation14.io/) | [News](https://spacestation14.io/post/) | [Forums](https://forum.spacestation14.io/) | [Donate](https://www.patreon.com/spacestation14)
+[Game on Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Source Code](https://github.com/space-wizards/space-station-14) ⭐ 3,828 | 🐛 4,298 | 🌐 C# | 📅 2026-09-22 | [License MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT) ⭐ 3,828 | 🐛 4,298 | 🌐 C# | 📅 2026-09-22 | [Tutorials & Help](https://wiki.spacestation14.io/wiki/Main_Page) | [Website](https://spacestation14.io/) | [News](https://spacestation14.io/post/) | [Forums](https://forum.spacestation14.io/) | [Donate](https://www.patreon.com/spacestation14)
 
 Disasters, enemies, and incompetence conspire to make each shift aboard the station a unique and hellish experience. Sign up today to explore intricate game mechanics and enjoy limitless player interaction! (Nanotrasen Inc. is not responsible for injury, death, or worse).
 
@@ -1764,7 +1764,7 @@ The adventures of Superfluous, a very useless superhero in a peaceful village in
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1572920/SuperTux/) | [Source Code](https://github.com/SuperTux/supertux) ⭐ 3,147 | 🐛 377 | 🌐 C++ | 📅 2026-09-20 | [License GPLv3](https://github.com/SuperTux/supertux/blob/master/LICENSE.txt) ⭐ 3,147 | 🐛 377 | 🌐 C++ | 📅 2026-09-20 | [Website](https://www.supertux.org/) | [News](https://www.supertux.org/news/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=66) | [Donate](https://www.supertux.org/donate.html)
+[Game on Steam](https://store.steampowered.com/app/1572920/SuperTux/) | [Source Code](https://github.com/SuperTux/supertux) ⭐ 3,149 | 🐛 376 | 🌐 C++ | 📅 2026-09-21 | [License GPLv3](https://github.com/SuperTux/supertux/blob/master/LICENSE.txt) ⭐ 3,149 | 🐛 376 | 🌐 C++ | 📅 2026-09-21 | [Website](https://www.supertux.org/) | [News](https://www.supertux.org/news/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=66) | [Donate](https://www.supertux.org/donate.html)
 
 Classic 2D jump'n'run sidescroller featuring Tux the penguin. Run and jump through multiple worlds, fighting off enemies by jumping on them, bumping them from below or tossing objects at them, grabbing power-ups and other stuff on the way.
 
@@ -1937,7 +1937,7 @@ The Colorful Creature is difficult platformer with puzzle color mechanics. Play 
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1148350/The_Powder_Toy/) | [Source Code](https://github.com/The-Powder-Toy/The-Powder-Toy) ⭐ 5,321 | 🐛 38 | 🌐 C++ | 📅 2026-09-09 | [GNU General Public License v3.0](https://github.com/The-Powder-Toy/The-Powder-Toy/blob/master/LICENSE) ⭐ 5,321 | 🐛 38 | 🌐 C++ | 📅 2026-09-09 | [Website](https://powdertoy.co.uk/) | [Forums](https://powdertoy.co.uk/Discussions/Categories/Index.html) | [Tutorials & Help](https://powdertoy.co.uk/Wiki/W/Main_Page.html) | [Items made by other players](https://powdertoy.co.uk/Browse.html)
+[Game on Steam](https://store.steampowered.com/app/1148350/The_Powder_Toy/) | [Source Code](https://github.com/The-Powder-Toy/The-Powder-Toy) ⭐ 5,322 | 🐛 38 | 🌐 C++ | 📅 2026-09-09 | [GNU General Public License v3.0](https://github.com/The-Powder-Toy/The-Powder-Toy/blob/master/LICENSE) ⭐ 5,322 | 🐛 38 | 🌐 C++ | 📅 2026-09-09 | [Website](https://powdertoy.co.uk/) | [Forums](https://powdertoy.co.uk/Discussions/Categories/Index.html) | [Tutorials & Help](https://powdertoy.co.uk/Wiki/W/Main_Page.html) | [Items made by other players](https://powdertoy.co.uk/Browse.html)
 
 The Powder Toy is a classic physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances
 
@@ -2001,7 +2001,7 @@ Explore the world of Thirty Flights of Loving through a first-person short story
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1779200/Thrive/) | [Source Code](https://github.com/Revolutionary-Games/Thrive) ⭐ 3,712 | 🐛 526 | 🌐 C# | 📅 2026-09-20 | [Tutorials & Help](https://thrive.fandom.com/wiki/Thrive_Wiki) | [Website](https://revolutionarygamesstudio.com/) | [News](https://revolutionarygamesstudio.com/devblog/) | [Forums](https://community.revolutionarygamesstudio.com/) | [Donate](https://revolutionarygamesstudio.com/donate/)
+[Game on Steam](https://store.steampowered.com/app/1779200/Thrive/) | [Source Code](https://github.com/Revolutionary-Games/Thrive) ⭐ 3,712 | 🐛 526 | 🌐 C# | 📅 2026-09-21 | [Tutorials & Help](https://thrive.fandom.com/wiki/Thrive_Wiki) | [Website](https://revolutionarygamesstudio.com/) | [News](https://revolutionarygamesstudio.com/devblog/) | [Forums](https://community.revolutionarygamesstudio.com/) | [Donate](https://revolutionarygamesstudio.com/donate/)
 
 An evolution simulation game. Take control of your species in the environment and edit your species as a whole. Compete with other evolving species for resources on an alien planet.
 
@@ -2023,7 +2023,7 @@ An evolution simulation game. Take control of your species in the environment an
 
 <!-- HyperLinks -->
 
-[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) ⭐ 5,658 | 🐛 620 | 🌐 C# | 📅 2026-09-19 | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
+[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) ⭐ 5,661 | 🐛 617 | 🌐 C# | 📅 2026-09-22 | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
 
 Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!\
 *Note: In order to use this mod, you need to own [Terraria](https://store.steampowered.com/app/105600/Terraria/) on the Steam. Terraria is not FLOSS, but proprietary software.*
@@ -2133,7 +2133,7 @@ A truly free and open source multiplayer shooter, no strings attached. Have casu
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/4336570/Usurper_Reborn/) | [Source Code](https://github.com/binary-knight/usurper-reborn) ⭐ 91 | 🐛 0 | 🌐 C# | 📅 2026-09-20 | [GNU General Public License v2.0](https://github.com/binary-knight/usurper-reborn/blob/main/LICENSE) ⭐ 91 | 🐛 0 | 🌐 C# | 📅 2026-09-20 | [Website](https://usurper-reborn.net/)
+[Game on Steam](https://store.steampowered.com/app/4336570/Usurper_Reborn/) | [Source Code](https://github.com/binary-knight/usurper-reborn) ⭐ 91 | 🐛 0 | 🌐 C# | 📅 2026-09-21 | [GNU General Public License v2.0](https://github.com/binary-knight/usurper-reborn/blob/main/LICENSE) ⭐ 91 | 🐛 0 | 🌐 C# | 📅 2026-09-21 | [Website](https://usurper-reborn.net/)
 
 Wake with no memory. Descend 100 dungeon floors. Build relationships, start a family, lose companions forever. A text-based RPG remake of the 1993 BBS classic—with a living world and multiple endings shaped by your choices.
 
@@ -2255,4 +2255,4 @@ I found a lot of references thanks to [this curator](https://store.steampowered.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
