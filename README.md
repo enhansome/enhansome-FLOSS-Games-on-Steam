@@ -143,7 +143,7 @@ Barony is the premier first-person roguelike with cooperative play. Cryptic item
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) ⭐ 6,899 | 🐛 1,486 | 🌐 C++ | 📅 2026-09-30 | [GNU General Public License v2.0](https://github.com/wesnoth/wesnoth/blob/master/COPYING) ⭐ 6,899 | 🐛 1,486 | 🌐 C++ | 📅 2026-09-30 | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
+[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) ⭐ 6,899 | 🐛 1,485 | 🌐 C++ | 📅 2026-09-30 | [GNU General Public License v2.0](https://github.com/wesnoth/wesnoth/blob/master/COPYING) ⭐ 6,899 | 🐛 1,485 | 🌐 C++ | 📅 2026-09-30 | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
@@ -292,7 +292,7 @@ BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Us
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) | [Source Code](https://github.com/CleverRaven/Cataclysm-DDA/) ⭐ 13,288 | 🐛 1,785 | 🌐 C++ | 📅 2026-10-02 | [Website](https://cataclysmdda.org/) | [Tutorials & Help](https://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page) | [Forums](https://discourse.cataclysmdda.org/) | [Donate](https://cataclysmdda.org/donations/)
+[Game on Steam](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) | [Source Code](https://github.com/CleverRaven/Cataclysm-DDA/) ⭐ 13,289 | 🐛 1,787 | 🌐 C++ | 📅 2026-10-02 | [Website](https://cataclysmdda.org/) | [Tutorials & Help](https://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page) | [Forums](https://discourse.cataclysmdda.org/) | [Donate](https://cataclysmdda.org/donations/)
 
 The epitome of a modern traditional roguelike: with turn-based play and a RPG-like skill progression system, it hearkens back to some of the major aspects of this genre. This game has an incredible depth, with a deep inventory system, vehicles and boats, NPCs with their own stories, and more.
 
@@ -649,7 +649,7 @@ FreedroidRPG is an open source sci-fi role playing game, where the player (playi
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/404790/Godot_Engine/) | [Source Code](https://github.com/godotengine/godot) ⭐ 118,081 | 🐛 18,884 | 🌐 C++ | 📅 2026-10-02 | [License MIT](https://github.com/godotengine/godot/blob/master/LICENSE.txt) ⭐ 118,081 | 🐛 18,884 | 🌐 C++ | 📅 2026-10-02 | [Website](https://godotengine.org/) | [Donate](https://fund.godotengine.org/)
+[Software on Steam](https://store.steampowered.com/app/404790/Godot_Engine/) | [Source Code](https://github.com/godotengine/godot) ⭐ 118,086 | 🐛 18,885 | 🌐 C++ | 📅 2026-10-02 | [License MIT](https://github.com/godotengine/godot/blob/master/LICENSE.txt) ⭐ 118,086 | 🐛 18,885 | 🌐 C++ | 📅 2026-10-02 | [Website](https://godotengine.org/) | [Donate](https://fund.godotengine.org/)
 
 Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel.
 
@@ -1044,7 +1044,7 @@ MegaGlest is an open source cross-platform 3D real-time strategy (RTS) game, whe
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Source code](https://github.com/Anuken/Mindustry) ⭐ 29,193 | 🐛 39 | 🌐 Java | 📅 2026-10-03 | [Website](https://mindustrygame.github.io/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/)
+[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Source code](https://github.com/Anuken/Mindustry) ⭐ 29,194 | 🐛 39 | 🌐 Java | 📅 2026-10-03 | [Website](https://mindustrygame.github.io/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/)
 
 An open-ended tower-defense game with a focus on resource management.
 
@@ -1125,7 +1125,7 @@ Naev is a game about space exploration, trade and combat. Players travel the gal
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/1905180/OBS_Studio/) | [Source Code](https://github.com/obsproject/obs-studio) ⭐ 76,897 | 🐛 1,145 | 🌐 C | 📅 2026-10-03 | [Licence GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING) ⭐ 76,897 | 🐛 1,145 | 🌐 C | 📅 2026-10-03 | [Website](https://obsproject.com/) | [Forums](https://obsproject.com/forum/) | [Donate](https://www.patreon.com/obsproject)
+[Software on Steam](https://store.steampowered.com/app/1905180/OBS_Studio/) | [Source Code](https://github.com/obsproject/obs-studio) ⭐ 76,900 | 🐛 1,145 | 🌐 C | 📅 2026-10-03 | [Licence GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING) ⭐ 76,900 | 🐛 1,145 | 🌐 C | 📅 2026-10-03 | [Website](https://obsproject.com/) | [Forums](https://obsproject.com/forum/) | [Donate](https://www.patreon.com/obsproject)
 
 Free and open-source software for video recording and live streaming
 
@@ -1532,7 +1532,7 @@ shapez.io is a game about building factories to automate the creation and proces
 
 <!-- HyperLinks -->
 
-[Software on Steam](https://store.steampowered.com/app/400040/ShareX/) | [Source Code](https://github.com/ShareX/ShareX) ⭐ 39,847 | 🐛 630 | 🌐 C# | 📅 2026-10-02 | [GNU General Public License v3.0](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt) ⭐ 39,847 | 🐛 630 | 🌐 C# | 📅 2026-10-02 | [Website](https://getsharex.com/) | [Donate](https://getsharex.com/donate)
+[Software on Steam](https://store.steampowered.com/app/400040/ShareX/) | [Source Code](https://github.com/ShareX/ShareX) ⭐ 39,848 | 🐛 630 | 🌐 C# | 📅 2026-10-03 | [GNU General Public License v3.0](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt) ⭐ 39,848 | 🐛 630 | 🌐 C# | 📅 2026-10-03 | [Website](https://getsharex.com/) | [Donate](https://getsharex.com/donate)
 
 ShareX is a free and open source program that can capture or record selected area from the screen with a single keypress, automatically save them to your hard disk/clipboard, and instantly upload them to an image/file hosting service and then can copy the URL to your clipboard.
 
@@ -1554,7 +1554,7 @@ ShareX is a free and open source program that can capture or record selected are
 
 <!-- HyperLinks -->
 
-[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,599 | 🐛 9 | 🌐 Java | 📅 2026-09-09 | [Website](https://shatteredpixel.com/shatteredpd/) | [News](https://shatteredpixel.com/blog/) | [Donate](https://www.patreon.com/ShatteredPixel)
+[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,599 | 🐛 10 | 🌐 Java | 📅 2026-09-09 | [Website](https://shatteredpixel.com/shatteredpd/) | [News](https://shatteredpixel.com/blog/) | [Donate](https://www.patreon.com/ShatteredPixel)
 
 Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master!
 
@@ -2023,7 +2023,7 @@ An evolution simulation game. Take control of your species in the environment an
 
 <!-- HyperLinks -->
 
-[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) ⭐ 5,690 | 🐛 623 | 🌐 C# | 📅 2026-10-01 | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
+[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) ⭐ 5,692 | 🐛 623 | 🌐 C# | 📅 2026-10-01 | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
 
 Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!\
 *Note: In order to use this mod, you need to own [Terraria](https://store.steampowered.com/app/105600/Terraria/) on the Steam. Terraria is not FLOSS, but proprietary software.*

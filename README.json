@@ -163,7 +163,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-30T17:04:36Z",
-            "open_issues": 1486,
+            "open_issues": 1485,
             "owner": "wesnoth",
             "repo": "wesnoth",
             "stars": 6899,
@@ -354,10 +354,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T20:08:01Z",
-            "open_issues": 1785,
+            "open_issues": 1787,
             "owner": "CleverRaven",
             "repo": "Cataclysm-DDA",
-            "stars": 13288,
+            "stars": 13289,
             "topics": [
               "c-plus-plus",
               "cataclysm",
@@ -692,10 +692,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-02T18:11:24Z",
-            "open_issues": 18884,
+            "open_issues": 18885,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 118081,
+            "stars": 118086,
             "topics": [
               "game-development",
               "game-engine",
@@ -1056,7 +1056,7 @@
             "open_issues": 39,
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 29193,
+            "stars": 29194,
             "topics": [
               "android",
               "desktop",
@@ -1166,7 +1166,7 @@
             "open_issues": 1145,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 76897,
+            "stars": 76900,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1712,11 +1712,11 @@
             "id": 13428264,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T18:11:47Z",
+            "last_commit": "2026-10-03T06:39:23Z",
             "open_issues": 630,
             "owner": "ShareX",
             "repo": "ShareX",
-            "stars": 39847,
+            "stars": 39848,
             "topics": [
               "avalonia",
               "capture",
@@ -1761,7 +1761,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-09T17:20:49Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
             "stars": 6599,
@@ -2331,7 +2331,7 @@
             "open_issues": 623,
             "owner": "tModLoader",
             "repo": "tModLoader",
-            "stars": 5690,
+            "stars": 5692,
             "topics": [
               "api",
               "game",
@@ -2511,7 +2511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:28:48.544Z",
+    "last_updated": "2026-10-03T06:43:21.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FLOSS games, mods and software available on Steam (86 so far)",
